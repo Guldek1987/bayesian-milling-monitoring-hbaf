@@ -1,0 +1,10 @@
+*.md text eol=lf
+*.py text eol=lf
+*.txt text eol=lf
+*.ipynb text eol=lf
+*.csv text eol=lf
+*.png binary
+*.gz binary
+*.xlsx binary
+# Raw data checksums refer to exact source bytes, including original line endings.
+dataset/raw/** -text

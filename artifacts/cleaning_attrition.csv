@@ -1,0 +1,8 @@
+stage,remaining_features,excluded_at_stage
+Numeric engineered pool,1025,0
+Primary pool after proxy policy,1015,10
+Descriptive train: remove all-missing,1023,2
+Descriptive train: remove constants,849,174
+Descriptive train: remove exact duplicates,780,69
+Descriptive train: deterministic redundancy,748,32
+Representative diagnostic shortlist,12,736

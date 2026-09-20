@@ -1,0 +1,14 @@
+# Analysis environment used for the successful reference-mode execution of 05 and 06.
+# Python >=3.11. This is not a lockfile for the original training hardware.
+numpy==2.3.5
+pandas==2.2.3
+scipy==1.17.0
+scikit-learn==1.8.0
+matplotlib==3.10.8
+pillow==12.3.0
+nbformat==5.10.4
+nbclient==0.10.4
+nbconvert==7.17.1
+matplotlib-inline>=0.1.7,<1
+ipykernel>=6.29,<8
+jupyterlab>=4,<5
