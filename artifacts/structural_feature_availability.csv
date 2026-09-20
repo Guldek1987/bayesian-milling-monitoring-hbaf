@@ -1,0 +1,10 @@
+feature_group,development_feature_count,external_feature_count,union_feature_count,shared_feature_count,development_only_count,external_only_count,shared_percent_of_union
+condition sensor,20,16,20,16,4,0,80.0
+energy,2,2,2,2,0,0,100.0
+load,6,4,6,4,2,0,66.66666666666667
+machine state,10,10,10,10,0,0,100.0
+position,5,3,5,3,2,0,60.0
+process/other,3,7,7,3,0,4,42.857142857142854
+speed/feed,6,6,6,6,0,0,100.0
+temporal,3,3,3,3,0,0,100.0
+All features,55,51,59,47,8,4,79.66101694915254

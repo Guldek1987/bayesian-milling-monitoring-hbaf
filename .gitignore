@@ -1,11 +1,13 @@
-.DS_Store
-__MACOSX/
-.ipynb_checkpoints/
-__pycache__/
-*.pyc
-.env
+# Local, regenerable products; keep the scientific reference inputs tracked.
 .venv/
 venv/
-dataset/raw/
-dataset/processed/
-dataset/unified/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+.DS_Store
+__MACOSX/
+dataset/generated/
+*.log
+.env
+.env.*
