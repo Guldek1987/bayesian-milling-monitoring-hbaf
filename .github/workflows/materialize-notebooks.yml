@@ -14,35 +14,32 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Decode notebooks
+      - name: Decode and validate notebooks
         shell: bash
         run: |
           set -euo pipefail
           mkdir -p notebooks
-          shopt -s nullglob
-          names=(
-            01_dataset_audit_and_classic_eda.ipynb
-            02_advanced_data_analysis_feature_engineering_and_splits.ipynb
-            03_competitive_models.ipynb
-            04_bayesian_adaptive_hybrid_development.ipynb
-            05_statistical_robustness_and_uncertainty.ipynb
-            06_final_internal_external_evaluation.ipynb
-          )
-          for name in "${names[@]}"; do
-            parts=(notebooks/.packed/"$name".gz.b64.part*)
-            test "${#parts[@]}" -gt 0
-            cat "${parts[@]}" | base64 -d | gzip -dc > "notebooks/$name"
-          done
+          parts=(notebooks/.packed/all_notebooks.tar.xz.b64.part*)
+          test "${#parts[@]}" -gt 0
+          cat "${parts[@]}" | base64 -d | xz -dc | tar -x -C notebooks
           python - <<'PY'
           import json
           from pathlib import Path
-          files=sorted(Path("notebooks").glob("0*.ipynb"))
-          assert len(files)==6, files
+          expected = [
+              "01_dataset_audit_and_classic_eda.ipynb",
+              "02_advanced_data_analysis_feature_engineering_and_splits.ipynb",
+              "03_competitive_models.ipynb",
+              "04_bayesian_adaptive_hybrid_development.ipynb",
+              "05_statistical_robustness_and_uncertainty.ipynb",
+              "06_final_internal_external_evaluation.ipynb",
+          ]
+          files=[Path("notebooks")/name for name in expected]
+          assert all(p.is_file() for p in files), files
           for p in files:
               nb=json.loads(p.read_text(encoding="utf-8"))
               assert nb.get("nbformat")==4
               assert any(c.get("cell_type")=="code" for c in nb["cells"])
-              print("validated",p,len(nb["cells"]))
+              print("validated", p, len(nb["cells"]))
           PY
       - name: Commit materialized notebooks
         shell: bash
