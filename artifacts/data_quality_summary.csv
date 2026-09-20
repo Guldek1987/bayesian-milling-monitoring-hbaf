@@ -1,0 +1,10 @@
+domain,scientific_unit,quality_dimension,affected_n,denominator_n,affected_percent
+All,Cutting path,Duplicate generated identifier,0,2512,0.0
+All,Cutting path,Duplicate original interval key,0,2512,0.0
+All,Cutting path,Non-positive duration,0,2512,0.0
+All,Cutting path,Outside MTC coverage,0,2512,0.0
+All,Cutting path,Overlap with previous interval,0,2512,0.0
+All,Cutting path,Nested labeled interval,0,2512,0.0
+All,MTC timestamp,Duplicate timestamp,0,116346,0.0
+External cross-machine,Raw feature observation,Raw-cell missing value,0,4006917,0.0
+Development,Raw feature observation,Raw-cell missing value,0,2077845,0.0

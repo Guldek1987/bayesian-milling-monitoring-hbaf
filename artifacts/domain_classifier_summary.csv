@@ -1,0 +1,2 @@
+comparison,n_paths,independent_experiments,oof_auroc,oof_balanced_accuracy
+train vs external,2148,48,0.9961915381210393,0.8863232682060391

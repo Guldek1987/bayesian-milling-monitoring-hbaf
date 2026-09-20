@@ -1,0 +1,5 @@
+prefix_fraction,cutting_paths,feature_count,forbidden_features,max_source_fraction,all_source_times_causal,rows_without_raw_samples
+0.25,2512,1026,0,0.25,True,22
+0.5,2512,1026,0,0.5,True,4
+0.75,2512,1026,0,0.75,True,4
+1.0,2512,1026,0,1.0,True,4
