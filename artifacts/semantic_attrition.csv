@@ -1,0 +1,6 @@
+stage,remaining_features,excluded_at_stage
+Development raw features,55,0
+Raw-name intersection,47,8
+Exact XML semantic match,43,4
+Shared numeric canonical,35,0
+Shared categorical canonical,8,0
