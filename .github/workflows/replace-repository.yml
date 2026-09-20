@@ -1,0 +1,56 @@
+name: Replace repository from the complete publication ZIP
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/replace-repository.yml'
+      - '.github/replace_repository.py'
+  issue_comment:
+    types: [created, edited]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: hbaf-complete-repository-replacement
+  cancel-in-progress: false
+
+jobs:
+  preflight:
+    if: github.event_name == 'push' && github.repository == 'Guldek1987/bayesian-milling-monitoring-hbaf'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 1
+      - name: Verify transfer permissions without changing main
+        run: python .github/replace_repository.py preflight
+
+  replace:
+    if: >-
+      github.event_name == 'issue_comment' &&
+      github.repository == 'Guldek1987/bayesian-milling-monitoring-hbaf' &&
+      github.event.issue.number == 1 &&
+      github.event.comment.user.id == 86553015 &&
+      github.event.sender.id == 86553015 &&
+      contains(github.event.comment.body, 'https://github.com/') &&
+      contains(github.event.comment.body, '.zip')
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 1
+      - name: Verify the complete archive and atomically replace main
+        run: python .github/replace_repository.py apply
+      - name: Report verified outcome in the upload thread
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          IMPORT_STATUS: ${{ job.status }}
+        run: python .github/replace_repository.py report
