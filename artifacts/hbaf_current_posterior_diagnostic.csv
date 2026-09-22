@@ -1,2 +1,0 @@
-Boundary,n,Distinct modes,Proposal draws,Importance ESS,Largest normalized weight,Mean-risk RMSE,Maximum mean-risk difference,Posterior-SD RMSE,Median Monte Carlo SE,Maximum Monte Carlo SE
-R1/F1 training; fixed hyperparameters,371,2,4096,12.859910659319134,0.18942945048135118,0.06204706182632126,0.13916919851515314,0.030232203690453444,0.03119446409963098,0.0628245996439033

@@ -1,5 +1,0 @@
-split,observations,independent_experiments,positive_bearing_experiments,intervention_n,intervention_rate,observed_start_s,observed_end_s,minimum_experiment_prevalence,maximum_experiment_prevalence,role
-train,563,11,5,127,0.2255772646536412,9.131,517.013,0.0,1.0,Model development
-validation,192,3,1,64,0.3333333333333333,10.219,591.104,0.0,1.0,Selection and calibration
-internal_test,172,5,3,32,0.18604651162790697,0.0,449.685,0.0,1.0,Locked internal evaluation
-external,1585,37,22,412,0.2599369085173502,7.488,592.299,0.0,1.0,Cross-machine evaluation

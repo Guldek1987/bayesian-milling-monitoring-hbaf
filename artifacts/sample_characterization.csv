@@ -1,3 +1,0 @@
-machine_id,domain_role,observations,independent_experiments,approved_files,raw_size_mb,mtc_rows,unique_raw_features,median_path_duration_s,q25_path_duration_s,q75_path_duration_s,median_sampling_interval_s,median_experiment_duration_s,observed_time_min_s,observed_time_max_s
-imi_vm20i,External cross-machine,1585,37,74,29.630054473876953,78567,51,3.3489999999999895,2.048000000000002,4.480000000000018,0.1450710000000015,321.916527,7.488,592.299
-imi_vmx30ui,Development,927,19,38,11.873854637145996,37779,55,1.7920000000000016,1.2800000000000011,3.584000000000003,0.14652300000000018,282.819891,0.0,591.104

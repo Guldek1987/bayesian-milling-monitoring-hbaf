@@ -1,2 +1,0 @@
-Model,Development experiment (s/outer boundary),Gate/control latency (ms/path),Assessment bundle (MB),Gate parameter count,Split,Scope
-HBAF,15.612139108334668,0.07846729835672625,8.932042566935221,8.933333333333334,Development OOF,Training includes nested experts and controls; latency and parameters are gate-only
