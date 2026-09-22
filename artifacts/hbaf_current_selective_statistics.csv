@@ -1,0 +1,4 @@
+Contrast,Metric,Effect,CI low,CI high,Simultaneous lower bound,Replicates,Role
+Parent entropy minus Bayesian uncertainty; same HBAF,Brier AURC,-0.0031797018477277435,-0.023422342868890517,0.004011582905122675,-0.025936991169252722,5000,Exploratory uncertainty-ranking endpoint
+Parent entropy minus Bayesian uncertainty; same HBAF,NLL AURC,-0.007006545477958194,-0.06223591076240313,0.011391300884341633,-0.07045981127431473,5000,Exploratory uncertainty-ranking endpoint
+Parent entropy minus Bayesian uncertainty; same HBAF,Brier risk at 75% coverage,0.004069984911097156,-0.022273170247488757,0.01379479095537274,-0.026319624114859993,5000,Exploratory uncertainty-ranking endpoint

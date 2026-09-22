@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MTConnectDevices xmlns:m="urn:mtconnect.org:MTConnectDevices:1.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:mtconnect.org:MTConnectDevices:1.3" xsi:schemaLocation="urn:mtconnect.org:MTConnectDevices:1.3 http://www.mtconnect.org/schemas/MTConnectDevices_1.3.xsd">
+    <Header creationTime="2010-03-04T18:44:40+00:00" sender="localhost" instanceId="1267728234" bufferSize="131072" version="1.3" />
+    <Devices>
+        <Device id="dev" name="default" uuid="vm20i">
+            <Description manufacturer="Hurco" />
+            <DataItems>
+                <DataItem category="EVENT" id="avail" type="AVAILABILITY" />
+                <DataItem category="EVENT" id="dev_asset_chg" type="ASSET_CHANGED"/>
+                <DataItem category="EVENT" id="dev_asset_rem" type="ASSET_REMOVED"/>
+            </DataItems>
+            <Systems id="systems" name="systems">
+                <Electric name="electric" id="elec">
+                    <DataItems>
+                        <!-- AcuvimCL power meter on main power load -->
+                        <DataItem type="WATTAGE" category="SAMPLE" id="watt" name="true_power" units="WATT">
+                            <Definition>
+                                <Description>Source is Power Meter: True Power Consumption</Description>
+                            </Definition>
+                        </DataItem>
+                        <DataItem type="ELECTRICAL_ENERGY" category="SAMPLE" id="energy" name="energy_use" units="KILOWATT_HOUR" nativeUnits="KILOWATT_HOUR">
+                            <Definition>
+                                <Description>Source is Power Meter: Accumulated Energy Use</Description>
+                            </Definition>
+                        </DataItem>
+                        <!-- AcuvimCL power meter on main power load -->
+                    </DataItems>
+                </Electric>
+            </Systems>            
+            <Components>
+                <Axes id="axes" name="Axes">
+                    <Components>
+                        <Rotary id="s_axis" name="S">
+                            <DataItems>
+                                <DataItem category="SAMPLE" id="Spindle_Speed" nativeUnits="REVOLUTION/MINUTE" type="ROTARY_VELOCITY" subType="ACTUAL" units="REVOLUTION/MINUTE">
+                                </DataItem>
+                                <DataItem category="SAMPLE" id="Spindle_Override" nativeUnits="PERCENT" type="ROTARY_VELOCITY_OVERRIDE" subType="ACTUAL" units="PERCENT">
+                                </DataItem>
+                                <DataItem category="SAMPLE" id="S_Axis_Load" nativeUnits="PERCENT" type="ROTARY_VELOCITY" subType="ACTUAL" units="PERCENT">
+                                </DataItem>
+                                <!-- VSE sensor (Modbus) on Spindle motor -->
+                                <DataItem type="ACCELERATION" category="SAMPLE" id="smcrest" name="Smotor_crest" units="PERCENT">
+                                    <Definition>
+                                        <Description>Source is IFM VSA001 Vibration Sensor on Spindle Motor: Acceleration Crest Factor (peak-to-rms ratio, treated as unitless but reported as PERCENT to comply with MTConnect standard)</Description>
+                                    </Definition>
+                                </DataItem>
+                                <DataItem type="ACCELERATION" category="SAMPLE" id="smarms" name="Smotor_acc_rms" units="MILLIMETER/SECOND^2">
+                                    <Definition>                                
+                                        <Description>Source is IFM VSA001 Vibration Sensor on Spindle Motor: Acceleration RMS</Description>
+                                    </Definition>
+                                </DataItem>
+                                <DataItem type="ACCELERATION" category="SAMPLE" id="smapeak" name="Smotor_acc_peak" units="MILLIMETER/SECOND^2">
+                                    <Definition>                                
+                                        <Description>Source is IFM VSA001 Vibration Sensor on Spindle Motor: Acceleration Peak</Description>
+                                    </Definition>
+                                </DataItem>
+                                <DataItem type="VELOCITY" category="SAMPLE" id="smvrms" name="Smotor_vel_rms" units="MILLIMETER/SECOND">
+                                    <Definition>                                
+                                        <Description>Source is IFM VSA001 Vibration Sensor on Spindle Motor: Velocity RMS</Description>
+                                    </Definition>
+                                </DataItem>
+                                <DataItem type="DISPLACEMENT" category="SAMPLE" id="smdisp" name="Smotor_disp_rms" units="MILLIMETER">
+                                    <Definition>                                
+                                        <Description>Source is IFM VSA001 Vibration Sensor on Spindle Motor: Displacement RMS</Description>
+                                    </Definition>
+                                </DataItem>
+                                <!-- VSE sensor (Modbus) on Spindle motor -->
+                            </DataItems>
+                        </Rotary>
+                        <Linear id="x_axis" name="X">
+                            <DataItems>
+                                <DataItem category="SAMPLE" id="X_Axis_Load" nativeUnits="PERCENT" type="LOAD" subType="ACTUAL" units="PERCENT" />
+                                <DataItem category="SAMPLE" id="X_Position" type="POSITION" subType="ACTUAL" units="MILLIMETER" />
+                                <!-- VSE sensor (Modbus) on X-axis motor -->
+                                <DataItem type="ACCELERATION" category="SAMPLE" id="xmcrest" name="Xmotor_crest" units="PERCENT">
+                                    <Definition>                                
+                                        <Description>Source is IFM VSA001 Vibration Sensor on X-axis Motor: Acceleration Crest Factor (peak-to-rms ratio, treated as unitless but reported as PERCENT to comply with MTConnect standard)</Description>
+                                    </Definition>
+                                </DataItem>
+                                <DataItem type="ACCELERATION" category="SAMPLE" id="xmarms" name="Xmotor_acc_rms" units="MILLIMETER/SECOND^2">
+                                    <Definition>
+                                        <Description>Source is IFM VSA001 Vibration Sensor on X-axis Motor: Acceleration RMS</Description>
+                                    </Definition>
+                                </DataItem>
+                                <DataItem type="ACCELERATION" category="SAMPLE" id="xmapeak" name="Xmotor_acc_peak" units="MILLIMETER/SECOND^2">
+                                    <Definition>                                
+                                        <Description>Source is IFM VSA001 Vibration Sensor on X-axis Motor: Acceleration Peak</Description>
+                                    </Definition>
+                                </DataItem>
+                                <DataItem type="VELOCITY" category="SAMPLE" id="xmvrms" name="Xmotor_vel_rms" units="MILLIMETER/SECOND">
+                                    <Definition>                                
+                                        <Description>Source is IFM VSA001 Vibration Sensor on X-axis Motor: Velocity RMS</Description>
+                                    </Definition>
+                                </DataItem>
+                                <DataItem type="DISPLACEMENT" category="SAMPLE" id="xmdisp" name="Xmotor_disp_rms" units="MILLIMETER">
+                                    <Definition>
+                                        <Description>Source is IFM VSA001 Vibration Sensor on X-axis Motor: Displacement RMS</Description>
+                                    </Definition>
+                                </DataItem>
+                                <!-- VSE sensor (Modbus) on X-axis motor -->
+                            </DataItems>
+                        </Linear>
+                        <Linear id="y_axis" name="Y">
+                            <DataItems>
+                                <DataItem category="SAMPLE" id="Y_Axis_Load" nativeUnits="PERCENT" type="LOAD" subType="ACTUAL" units="PERCENT" />
+                                <DataItem category="SAMPLE" id="Y_Position" type="POSITION" subType="ACTUAL" units="MILLIMETER" />
+                                <!-- VSE sensor (Modbus) on Y-axis motor -->
+                                <DataItem type="ACCELERATION" category="SAMPLE" id="ymcrest" name="Ymotor_crest" units="PERCENT">
+                                    <Definition>
+                                        <Description>Source is IFM VSA001 Vibration Sensor on Y-axis Motor: Acceleration Crest Factor (peak-to-rms ratio, treated as unitless but reported as PERCENT to comply with MTConnect standard)</Description>
+                                    </Definition>
+                                </DataItem>
+                                <DataItem type="ACCELERATION" category="SAMPLE" id="ymarms" name="Ymotor_acc_rms" units="MILLIMETER/SECOND^2">
+                                    <Definition>
+                                        <Description>Source is IFM VSA001 Vibration Sensor on Y-axis Motor: Acceleration RMS</Description>
+                                    </Definition>
+                                </DataItem>
+                                <DataItem type="ACCELERATION" category="SAMPLE" id="ymapeak" name="Ymotor_acc_peak" units="MILLIMETER/SECOND^2">
+                                    <Definition>
+                                        <Description>Source is IFM VSA001 Vibration Sensor on Y-axis Motor: Acceleration Peak</Description>
+                                    </Definition>
+                                </DataItem>
+                                <DataItem type="VELOCITY" category="SAMPLE" id="ymvrms" name="Ymotor_vel_rms" units="MILLIMETER/SECOND">
+                                    <Definition>
+                                        <Description>Source is IFM VSA001 Vibration Sensor on Y-axis Motor: Velocity RMS</Description>
+                                    </Definition>
+                                </DataItem>
+                                <DataItem type="DISPLACEMENT" category="SAMPLE" id="ymdisp" name="Ymotor_disp_rms" units="MILLIMETER">
+                                    <Definition>
+                                        <Description>Source is IFM VSA001 Vibration Sensor on Y-axis Motor: Displacement RMS</Description>
+                                    </Definition>
+                                </DataItem>
+                                <!-- VSE sensor (Modbus) on Y-axis motor -->
+                            </DataItems>
+                        </Linear>
+                        <Linear id="z_axis" name="Z">
+                            <DataItems>
+                                <DataItem category="SAMPLE" id="Z_Axis_Load" nativeUnits="PERCENT" type="LOAD" subType="ACTUAL" units="PERCENT" />
+                                <DataItem category="SAMPLE" id="Z_Position" type="POSITION" subType="ACTUAL" units="MILLIMETER" />
+                                <!-- VSE sensor (Modbus) on Z-axis motor -->
+                                <DataItem type="ACCELERATION" category="SAMPLE" id="zmcrest" name="Zmotor_crest" units="PERCENT">
+                                    <Definition>
+                                        <Description>Source is IFM VSA001 Vibration Sensor on Z-axis Motor: Acceleration Crest Factor (peak-to-rms ratio, treated as unitless but reported as PERCENT to comply with MTConnect standard)</Description>
+                                    </Definition>
+                                </DataItem>
+                                <DataItem type="ACCELERATION" category="SAMPLE" id="zmarms" name="Zmotor_acc_rms" units="MILLIMETER/SECOND^2">
+                                    <Definition>
+                                        <Description>Source is IFM VSA001 Vibration Sensor on Z-axis Motor: Acceleration RMS</Description>
+                                    </Definition>
+                                </DataItem>
+                                <DataItem type="ACCELERATION" category="SAMPLE" id="zmapeak" name="Zmotor_acc_peak" units="MILLIMETER/SECOND^2">
+                                    <Definition>
+                                        <Description>Source is IFM VSA001 Vibration Sensor on Z-axis Motor: Acceleration Peak</Description>
+                                    </Definition>
+                                </DataItem>
+                                <DataItem type="VELOCITY" category="SAMPLE" id="zmvrms" name="Zmotor_vel_rms" units="MILLIMETER/SECOND">
+                                    <Definition>
+                                        <Description>Source is IFM VSA001 Vibration Sensor on Z-axis Motor: Velocity RMS</Description>
+                                    </Definition>
+                                </DataItem>
+                                <DataItem type="DISPLACEMENT" category="SAMPLE" id="zmdisp" name="Zmotor_disp_rms" units="MILLIMETER">
+                                    <Definition>
+                                        <Description>Source is IFM VSA001 Vibration Sensor on Z-axis Motor: Displacement RMS</Description>
+                                    </Definition>
+                                </DataItem>
+                                <!-- VSE sensor (Modbus) on Z-axis motor -->
+                            </DataItems>
+                        </Linear>
+                    </Components>
+                </Axes>
+                <Controller id="controller" name="controller">
+                    <DataItems>
+                        <DataItem category="EVENT" id="EStop_State" type="EMERGENCY_STOP"/>
+                        <DataItem category="SAMPLE" id="Spindle_Time" type="ACCUMULATED_TIME" units="SECOND"/>
+                        <DataItem category="SAMPLE" id="Machine_Time" type="ACCUMULATED_TIME" units="SECOND"/>
+                        <DataItem category="EVENT" id="COR_Status" type="FUNCTIONAL_MODE"/>
+                        <DataItem category="EVENT" id="Machine_Mode" type="FUNCTIONAL_MODE"/>
+                        <DataItem category="EVENT" id="Controller_Mode" type="CONTROLLER_MODE"/>
+                    </DataItems>
+                    <Components>
+                        <Path id="path" name="Path">
+                            <DataItems>
+                                <DataItem category="EVENT" id="Block_Number" type="LINE" />
+                                <DataItem category="EVENT" id="Program_Name_Running" type="PROGRAM" />
+                                <DataItem category="EVENT" id="Program_Name_Editing" type="PROGRAM_EDIT_NAME" />
+                                <DataItem category="EVENT" id="Part_Count" type="PART_COUNT" subType="ALL" />
+                                <DataItem category="EVENT" id="Execution" type="EXECUTION" />
+                                <DataItem category="EVENT" id="Current_Tool" type="TOOL_NUMBER" />
+                                <DataItem category="SAMPLE" id="Feed_Override" nativeUnits="PERCENT" type="PATH_FEEDRATE_OVERRIDE" units="PERCENT" />
+                                <DataItem category="SAMPLE" id="Rapid_Override" nativeUnits="PERCENT" type="PATH_FEEDRATE_OVERRIDE" subType="RAPID" units="PERCENT" />
+                                <DataItem category="SAMPLE" id="Program_Runtime_Seconds" type="ACCUMULATED_TIME" units="SECOND" />
+                                <DataItem category="SAMPLE" id="Feed_Rate" nativeUnits="MILLIMETER/SECOND" type="PATH_FEEDRATE" subType="ACTUAL" units="MILLIMETER/SECOND" />
+                                <DataItem category="SAMPLE" id="Rapid_Speed" nativeUnits="MILLIMETER/SECOND" type="AXIS_FEEDRATE" units="MILLIMETER/SECOND" />
+                            </DataItems>
+                        </Path>
+                    </Components>
+                </Controller>
+            </Components>
+        </Device>
+    </Devices>
+</MTConnectDevices>

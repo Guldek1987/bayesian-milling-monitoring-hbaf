@@ -1,0 +1,5 @@
+feature_code,feature,train_missing_percent
+M1,y_axis_load__cv,23.623445825932503
+M2,y_axis_load__peak_to_rms,23.623445825932503
+M3,xmvrms__cv,1.2433392539964476
+M4,xmvrms__peak_to_rms,1.2433392539964476

@@ -1,0 +1,66 @@
+{
+  "name": "HBAF",
+  "date": "2026-09-17",
+  "status": "prospectively specified exploratory refinement",
+  "seeds": [
+    20260807,
+    20260817,
+    20260827,
+    20260837,
+    20260847
+  ],
+  "outer_folds": 3,
+  "meta_folds": 2,
+  "base_inner_folds": 2,
+  "checkpoint": 1.0,
+  "models": [
+    "HBAF",
+    "TabM calibrated",
+    "GaussianNB calibrated",
+    "Global learned fusion",
+    "Equal fusion",
+    "MAP gate",
+    "No hierarchy",
+    "Raw TabM"
+  ],
+  "gate_covariates": [
+    "entropy difference",
+    "absolute expert disagreement"
+  ],
+  "gate_likelihood": "one Bernoulli observation per cutting path",
+  "prior": "normal coefficients and experiment effects; training-only Laplace evidence scales",
+  "log_scale_numerical_bounds": [
+    -4.0,
+    2.0
+  ],
+  "expanded_bounds": [
+    -8.0,
+    4.0
+  ],
+  "exact_tau_zero_candidate": true,
+  "exact_coefficient_zero_candidate": true,
+  "quadrature_order": 31,
+  "quadrature_check": "61 with adaptive integration fallback",
+  "primary": [
+    "MCC",
+    "PR-AUC",
+    "Macro-F1"
+  ],
+  "benefit": [
+    "Brier",
+    "NLL"
+  ],
+  "predictive_harm_margins": {
+    "MCC": 0.01,
+    "PR-AUC": 0.005,
+    "Macro-F1": 0.01
+  },
+  "practical_gains": {
+    "Brier": 0.002,
+    "NLL": 0.005
+  },
+  "bootstrap_draws": 5000,
+  "independent_unit": "experiment",
+  "all_previous_attempts_retained": true,
+  "locked_outcomes_used": false
+}

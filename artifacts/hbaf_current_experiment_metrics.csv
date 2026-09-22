@@ -1,0 +1,1431 @@
+Model,Cohort,Split,repeat,Experiment,n,MCC,Brier,NLL,MCC eligible
+HBAF,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset15,64,0.0,0.1320837243604615,0.46709426717006663,True
+HBAF,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset16,64,,0.0018390053034713818,0.023427165176580073,False
+HBAF,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset6,64,,0.0009806989840827015,0.015094549144183508,False
+HBAF,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset14,64,0.37267799624996495,0.16004683812267667,0.45837510470943754,True
+HBAF,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset18,64,,0.00024104952773580042,0.015412515418462239,False
+HBAF,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset8,64,,0.0009004387435976648,0.021364044475598337,False
+HBAF,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset11,64,,0.08094536222004298,0.26554263984461385,False
+HBAF,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset12,64,,0.00010375337317329169,0.005093881015985157,False
+HBAF,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset17,27,1.0,7.054162115749769e-05,0.0021327920825565355,True
+HBAF,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset2,12,,0.14673032467506164,0.4711867860152936,False
+HBAF,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset4,12,,0.02289958082939328,0.11054705196072033,False
+TabM calibrated,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset15,64,0.0,0.15141311961205864,0.9851432010295563,True
+TabM calibrated,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset16,64,,0.005675167037431755,0.029994239642439264,False
+TabM calibrated,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset6,64,,0.005112243222987636,0.01651947616984944,False
+TabM calibrated,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset14,64,0.07273929674533079,0.18539253394498473,0.6388225373651296,True
+TabM calibrated,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset18,64,,1.7297318862609603e-08,2.580240632273579e-05,False
+TabM calibrated,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset8,64,,0.021600658477373354,0.07014994895534558,False
+TabM calibrated,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset11,64,,0.23452815253614523,0.7140124900241155,False
+TabM calibrated,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset12,64,,0.00017276664227837296,0.0056752095069030365,False
+TabM calibrated,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset17,27,1.0,3.1187503204729536e-08,3.9151491323463405e-05,True
+TabM calibrated,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset2,12,,0.02326219635453521,0.1148916461345339,False
+TabM calibrated,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset4,12,,2.538602096863212e-05,0.002031726221741368,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset15,64,0.1700375951120617,0.1282337784695326,0.42331844779180083,True
+GaussianNB calibrated,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset16,64,,0.000574044187486233,0.023944694458268963,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset6,64,,0.0008346980376413622,0.028314169655952043,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset14,64,0.0,0.25372588803817697,0.8036650039116439,True
+GaussianNB calibrated,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset18,64,,0.0005376540194974218,0.023042406663166065,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset8,64,,0.0003027431773722804,0.0175334317339981,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset11,64,,0.0035292385270849136,0.04223864357918748,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset12,64,,2.393468691629511e-05,0.004424671141619029,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset17,27,0.0,0.0013539021649924073,0.011666290828864626,True
+GaussianNB calibrated,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset2,12,,0.5806013529392592,1.5929069370950852,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset4,12,,0.14083133312717602,0.47371829845730823,False
+Global learned fusion,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset15,64,0.0,0.1265615260304169,0.42285027236530326,True
+Global learned fusion,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset16,64,,0.00134952928451514,0.025365135114007592,False
+Global learned fusion,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset6,64,,0.0011757830996004352,0.022742985732166945,False
+Global learned fusion,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset14,64,0.0,0.14573234928203524,0.4233232752596122,True
+Global learned fusion,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset18,64,,2.2227189218724476e-05,0.004634860824188012,False
+Global learned fusion,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset8,64,,0.014044547007743102,0.05443273408734728,False
+Global learned fusion,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset11,64,,0.2345255530288548,0.7139957614645753,False
+Global learned fusion,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset12,64,,0.00017276489351038217,0.005675201589964407,False
+Global learned fusion,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset17,27,1.0,3.126394781108922e-08,3.921621236938441e-05,True
+Global learned fusion,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset2,12,,0.023262747727835167,0.11489578987096775,False
+Global learned fusion,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset4,12,,2.54052319844155e-05,0.002033472634314451,False
+Equal fusion,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset15,64,0.0,0.1288158241674649,0.43431996656247496,True
+Equal fusion,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset16,64,,0.0019268236499021404,0.02605506687062635,False
+Equal fusion,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset6,64,,0.0016379206318657452,0.021060497853602,False
+Equal fusion,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset14,64,0.5255382728122436,0.13667546415221382,0.401706780566478,True
+Equal fusion,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset18,64,,0.0001347925148989889,0.011465400582495199,False
+Equal fusion,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset8,64,,0.005913712576475277,0.03758854695566227,False
+Equal fusion,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset11,64,,0.06775413275233434,0.23687280736709784,False
+Equal fusion,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset12,64,,6.221467130882819e-05,0.0050308335806234766,False
+Equal fusion,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset17,27,0.0,0.00034170303931753903,0.005647185981141747,True
+Equal fusion,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset2,12,,0.18572102682891214,0.5558069705128258,False
+Equal fusion,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset4,12,,0.036032382572606485,0.17195301262716645,False
+MAP gate,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset15,64,0.29277002188455997,0.1399935391480267,0.9540015149624983,True
+MAP gate,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset16,64,,0.0024413376470548693,0.02084702693993921,False
+MAP gate,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset6,64,,8.71665096678836e-05,0.0037726140139268845,False
+MAP gate,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset14,64,0.2182178902359924,0.20498016683652587,0.6393551010526715,True
+MAP gate,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset18,64,,0.0005372485948436396,0.023034702626550295,False
+MAP gate,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset8,64,,0.0003027077320768093,0.01753239716138536,False
+MAP gate,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset11,64,,0.23451567638348297,0.7139006216356139,False
+MAP gate,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset12,64,,0.00017273459567094312,0.005675158714908948,False
+MAP gate,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset17,27,0.6933752452815364,3.429257313577586e-08,4.1439253703203974e-05,True
+MAP gate,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset2,12,,0.023268684456678606,0.1149357942450978,False
+MAP gate,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset4,12,,2.5581289136104322e-05,0.002078639184547149,False
+No hierarchy,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset15,64,0.0,0.13499910051589276,0.438656089502534,True
+No hierarchy,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset16,64,,0.0005807509849799597,0.024053489190320833,False
+No hierarchy,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset6,64,,0.00475511556203783,0.03885043810118455,False
+No hierarchy,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset14,64,0.30637776382712506,0.2038634051728579,0.6730363193091569,True
+No hierarchy,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset18,64,,0.0005366156457778285,0.023020424498972375,False
+No hierarchy,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset8,64,,0.00030294622764704315,0.017539315099046347,False
+No hierarchy,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset11,64,,0.08094536222004298,0.26554263984461385,False
+No hierarchy,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset12,64,,0.00010375337317329169,0.005093881015985157,False
+No hierarchy,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset17,27,1.0,7.054162115749769e-05,0.0021327920825565355,True
+No hierarchy,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset2,12,,0.14673032467506164,0.4711867860152936,False
+No hierarchy,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset4,12,,0.02289958082939328,0.11054705196072033,False
+Raw TabM,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset15,64,0.0,0.14648355778554023,0.6416063067794273,True
+Raw TabM,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset16,64,,0.030376820719280696,0.13138023116743766,False
+Raw TabM,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset6,64,,0.012816959006728294,0.07393969590499377,False
+Raw TabM,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset14,64,0.0,0.14375652740519845,0.41267192228437544,True
+Raw TabM,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset18,64,,3.3270171049584206e-06,0.0005571054188738916,False
+Raw TabM,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset8,64,,0.055746942434887224,0.17015871667374707,False
+Raw TabM,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset11,64,,0.38812067266055095,1.2060866090799691,False
+Raw TabM,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset12,64,,0.009092344730813343,0.0661449214315985,False
+Raw TabM,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset17,27,1.0,1.2095274777288687e-06,0.00035194054850690474,True
+Raw TabM,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset2,12,,0.004550437964886929,0.05108450683984079,False
+Raw TabM,Current nested-threshold,Development OOF,1,imi_vmx30ui::dataset4,12,,2.046520028227879e-05,0.0020740474378591984,False
+HBAF,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset11,64,,0.23470135566458444,0.6722189541659678,False
+HBAF,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset15,64,0.0,0.1276798150316496,0.4306295376188839,True
+HBAF,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset16,64,,0.0002353613362687019,0.013395234211513632,False
+HBAF,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset14,64,-0.12803687993289598,0.326078088109416,0.876498700254746,True
+HBAF,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset18,64,,0.0009654330557760087,0.031413311261658736,False
+HBAF,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset6,64,,0.0016701741005029375,0.03611342430719702,False
+HBAF,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset12,64,,9.948663444610065e-05,0.009564571734601915,False
+HBAF,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset17,27,1.0,0.0014079327340658341,0.0167777589962481,True
+HBAF,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset2,12,,0.4902196763005382,1.303992175421311,False
+HBAF,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset4,12,,0.02023554761147563,0.14084900867660696,False
+HBAF,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset8,64,,0.00021475928278605203,0.008525056468606837,False
+TabM calibrated,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset11,64,,0.30361262488075647,0.8408651952664283,False
+TabM calibrated,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset15,64,0.0,0.14575714585418897,0.6861888479516041,True
+TabM calibrated,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset16,64,,0.0001723989884131204,0.0027323166259227713,False
+TabM calibrated,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset14,64,0.4775669329409193,0.45668584678815627,1.985180032031335,True
+TabM calibrated,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset18,64,,4.996767456748783e-06,0.00085229594825331,False
+TabM calibrated,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset6,64,,0.001747121068934652,0.0064421788612342825,False
+TabM calibrated,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset12,64,,1.0958531133728091e-08,6.594494934994928e-05,False
+TabM calibrated,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset17,27,0.0,0.0013062078248981823,0.007707156541438438,True
+TabM calibrated,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset2,12,,0.6025735220804397,2.147080644098826,False
+TabM calibrated,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset4,12,,0.0020884973384201924,0.025331327845989432,False
+TabM calibrated,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset8,64,,0.0001757714989889272,0.002669388396763027,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset11,64,,0.22039453276428675,0.6543803150366925,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset15,64,0.29277002188455997,0.12169931751103202,0.4088206483741096,True
+GaussianNB calibrated,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset16,64,,0.0006045784651199016,0.024217831029889218,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset14,64,-0.14907119849998599,0.2809817088387301,0.7664531461972472,True
+GaussianNB calibrated,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset18,64,,0.003745424501905882,0.06294432325422779,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset6,64,,0.004327242370210235,0.06740015690147412,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset12,64,,0.00012165214696863613,0.010724312350669741,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset17,27,0.0,0.01077319328427839,0.038619687602615915,True
+GaussianNB calibrated,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset2,12,,0.7693789731595885,2.235905793695585,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset4,12,,0.23875023540343543,0.724523143201978,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset8,64,,6.305554642809884e-05,0.007948324886983868,False
+Global learned fusion,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset11,64,,0.22309198481854814,0.6475750369165704,False
+Global learned fusion,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset15,64,0.0,0.12407417061053022,0.415553571180908,True
+Global learned fusion,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset16,64,,0.0003355372728784477,0.017356579439403684,False
+Global learned fusion,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset14,64,0.0,0.2875103455510762,0.7815908876942985,True
+Global learned fusion,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset18,64,,0.0025218356173137947,0.05133981076322061,False
+Global learned fusion,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset6,64,,0.0030425464941692543,0.055818159957856855,False
+Global learned fusion,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset12,64,,1.0966817675862077e-08,6.600812088397168e-05,False
+Global learned fusion,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset17,27,0.0,0.0013062367451425558,0.007707311406630461,True
+Global learned fusion,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset2,12,,0.6025737503752596,2.1470602606609193,False
+Global learned fusion,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset4,12,,0.0020886773179536115,0.025333538894215777,False
+Global learned fusion,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset8,64,,0.00017576963076627427,0.0026694191999984017,False
+Equal fusion,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset11,64,,0.23470135566458444,0.6722189541659678,False
+Equal fusion,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset15,64,0.0,0.1276798150316496,0.4306295376188839,True
+Equal fusion,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset16,64,,0.0002353613362687018,0.013395234211513625,False
+Equal fusion,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset14,64,-0.12803687993289598,0.32607808971278573,0.8764987046396688,True
+Equal fusion,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset18,64,,0.0009654330083890342,0.03141331047512759,False
+Equal fusion,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset6,64,,0.0016701740581377652,0.0361134235041307,False
+Equal fusion,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset12,64,,3.076861608827027e-05,0.005379901950481364,False
+Equal fusion,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset17,27,1.0,0.004885869591017589,0.021710782794145286,True
+Equal fusion,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset2,12,,0.653849435170496,1.7801758416592595,False
+Equal fusion,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset4,12,,0.06880201079752261,0.25124039659825137,False
+Equal fusion,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset8,64,,6.923848663845001e-05,0.005281656522370113,False
+MAP gate,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset11,64,,0.23470135566458444,0.6722189541659678,False
+MAP gate,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset15,64,0.0,0.1276798150316496,0.4306295376188839,True
+MAP gate,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset16,64,,0.0002353613362687018,0.013395234211513625,False
+MAP gate,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset14,64,-0.12803687993289598,0.3260780637493703,0.8764986336344798,True
+MAP gate,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset18,64,,0.00096543377572809,0.03141332321145367,False
+MAP gate,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset6,64,,0.001670174744158644,0.036113436508211444,False
+MAP gate,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset12,64,,0.00011595914300865756,0.01041827145661199,False
+MAP gate,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset17,27,0.0,0.0014113044664605184,0.017538303308248918,True
+MAP gate,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset2,12,,0.4907349440626181,1.3069880867705552,False
+MAP gate,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset4,12,,0.020275175962672278,0.13986206159580375,False
+MAP gate,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset8,64,,0.00022496711208244783,0.009242466465349984,False
+No hierarchy,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset11,64,,0.2535078505825621,0.7245253453432254,False
+No hierarchy,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset15,64,0.0,0.1381441283019206,0.5877916564223706,True
+No hierarchy,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset16,64,,9.388744124871968e-05,0.004439607530412138,False
+No hierarchy,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset14,64,0.0,0.2809696997502992,0.7664291430102157,True
+No hierarchy,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset18,64,,0.003745391464272385,0.06294403647051618,False
+No hierarchy,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset6,64,,0.0043272058982191455,0.06739986635650941,False
+No hierarchy,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset12,64,,9.948663444610065e-05,0.009564571734601915,False
+No hierarchy,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset17,27,1.0,0.0014079327340658341,0.0167777589962481,True
+No hierarchy,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset2,12,,0.4902196763005382,1.303992175421311,False
+No hierarchy,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset4,12,,0.02023554761147563,0.14084900867660696,False
+No hierarchy,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset8,64,,0.00021475928278605203,0.008525056468606837,False
+Raw TabM,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset11,64,,0.6192429079745871,1.6448355522022706,False
+Raw TabM,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset15,64,0.0,0.14710457889107686,0.6057848773514545,True
+Raw TabM,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset16,64,,0.010889556862659888,0.0560204202490896,False
+Raw TabM,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset14,64,0.46225016352102427,0.303929334547942,1.3799239466053157,True
+Raw TabM,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset18,64,,5.600863961293515e-05,0.0018481215289428191,False
+Raw TabM,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset6,64,,0.010849008494081883,0.02806865250999386,False
+Raw TabM,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset12,64,,0.0001275106401054117,0.009397363198789964,False
+Raw TabM,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset17,27,1.0,0.0005778623197436043,0.00579130040522446,True
+Raw TabM,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset2,12,,0.2918794900554193,0.8002498153377058,False
+Raw TabM,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset4,12,,0.0016463141713289886,0.02892041246868468,False
+Raw TabM,Current nested-threshold,Development OOF,2,imi_vmx30ui::dataset8,64,,0.005977413377982592,0.03073390737883725,False
+HBAF,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset11,64,,0.19531352175585573,0.5643025522169572,False
+HBAF,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset12,64,,0.0027361676545770005,0.04914434175193928,False
+HBAF,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset15,64,0.29277002188455997,0.1042826821068002,0.335072957977992,True
+HBAF,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset14,64,-0.12803687993289598,0.2511272777983923,0.6991627839015302,True
+HBAF,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset16,64,,0.0008128664186962723,0.01981551405100101,False
+HBAF,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset8,64,,0.001822345585393455,0.015484266074881388,False
+HBAF,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset17,27,1.0,0.0042362964658600915,0.018404695889068814,True
+HBAF,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset18,64,,2.001810471393932e-05,0.004111932321699119,False
+HBAF,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset2,12,,0.689449355526563,1.8457245795719295,False
+HBAF,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset4,12,,0.06939117232340061,0.2533195640630668,False
+HBAF,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset6,64,,0.029275548693296616,0.12726723675730198,False
+TabM calibrated,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset11,64,,0.11399966624741767,0.3594841067736262,False
+TabM calibrated,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset12,64,,0.017332956790220875,0.10481141606758321,False
+TabM calibrated,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset15,64,0.0,0.1033446212176099,0.320562401505139,True
+TabM calibrated,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset14,64,0.60279628678631,0.41874633774918674,1.3251627199388878,True
+TabM calibrated,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset16,64,,0.0011995668398711286,0.02234128075917413,False
+TabM calibrated,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset8,64,,0.004039415195218604,0.02111867508099904,False
+TabM calibrated,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset17,27,0.0,0.005869511936401618,0.019186270857539926,True
+TabM calibrated,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset18,64,,8.0492091290996e-06,0.0020319754674055696,False
+TabM calibrated,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset2,12,,0.7985139204761329,2.6561084758284776,False
+TabM calibrated,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset4,12,,0.06389950611435731,0.24957715322090568,False
+TabM calibrated,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset6,64,,0.04050642134971516,0.15554564763208312,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset11,64,,0.261180913773697,0.7550395396711403,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset12,64,,0.002473489138824606,0.04295547405651303,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset15,64,0.29277002188455997,0.12207363441608435,0.40972863634572987,True
+GaussianNB calibrated,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset14,64,-0.14907119849998599,0.24923943266496523,0.7386124647768706,True
+GaussianNB calibrated,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset16,64,,5.602371123391261e-05,0.007354807596452583,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset8,64,,3.254470851284886e-05,0.005714005973212021,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset17,27,0.0,0.00019133874498082645,0.011433850000918188,True
+GaussianNB calibrated,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset18,64,,8.552790408920995e-05,0.009084518010365819,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset2,12,,0.6223297349317493,1.6644679149543158,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset4,12,,0.10113066654872825,0.29924308359552726,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset6,64,,8.212764847312431e-05,0.008747567535262844,False
+Global learned fusion,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset11,64,,0.13963211598454348,0.4392723283512999,False
+Global learned fusion,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset12,64,,0.009233217421837924,0.08022548081623919,False
+Global learned fusion,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset15,64,0.0,0.09169472844940285,0.31033296064142524,True
+Global learned fusion,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset14,64,0.5956833971812706,0.4187426361910961,1.325119047213172,True
+Global learned fusion,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset16,64,,0.0011995546877388054,0.022341188327396164,False
+Global learned fusion,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset8,64,,0.004039368266877691,0.02111856309273459,False
+Global learned fusion,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset17,27,0.0,0.002753284273107148,0.015444631176130827,True
+Global learned fusion,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset18,64,,2.3995160677131746e-05,0.004580552394893426,False
+Global learned fusion,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset2,12,,0.7260446772848042,1.9924420427526532,False
+Global learned fusion,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset4,12,,0.07116221390865685,0.2497352002325882,False
+Global learned fusion,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset6,64,,0.017121590765654445,0.09453728644641285,False
+Equal fusion,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset11,64,,0.1572046376582634,0.4799036335910626,False
+Equal fusion,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset12,64,,0.007030612848373691,0.07181881434091732,False
+Equal fusion,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset15,64,0.29277002188455997,0.0927716681043377,0.3171403420384332,True
+Equal fusion,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset14,64,-0.12803687993289598,0.2211246669697312,0.6387234022341038,True
+Equal fusion,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset16,64,,0.0004040162561276593,0.014722446975948586,False
+Equal fusion,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset8,64,,0.0010695054625585404,0.012693032511814233,False
+Equal fusion,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset17,27,1.0,0.001884022441946231,0.01434153969510118,True
+Equal fusion,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset18,64,,3.3673123572119816e-05,0.005551614714810823,False
+Equal fusion,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset2,12,,0.7010627690416338,1.8846412530099277,False
+Equal fusion,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset4,12,,0.07577995698114914,0.2532924503495646,False
+Equal fusion,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset6,64,,0.010834554308421594,0.07410923333786476,False
+MAP gate,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset11,64,,0.20970473927922834,0.6090164138394498,False
+MAP gate,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset12,64,,0.0016677052368979802,0.03940805353901611,False
+MAP gate,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset15,64,0.0,0.1133118871541373,0.35886553450626635,True
+MAP gate,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset14,64,0.43242556575519353,0.41874699241071134,1.3251883511697768,True
+MAP gate,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset16,64,,0.0011970067130249189,0.022305420823927575,False
+MAP gate,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset8,64,,0.0040384794065390596,0.021150710103548978,False
+MAP gate,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset17,27,1.0,0.005869512043725739,0.01918645142545002,True
+MAP gate,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset18,64,,8.049506441880125e-06,0.0020320683446838055,False
+MAP gate,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset2,12,,0.6543034647237614,1.8209984596596425,False
+MAP gate,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset4,12,,0.06389958643503109,0.24957774782398945,False
+MAP gate,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset6,64,,0.04050642121066331,0.15554564780518151,False
+No hierarchy,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset11,64,,0.19531352175585573,0.5643025522169572,False
+No hierarchy,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset12,64,,0.0027361676545770005,0.04914434175193928,False
+No hierarchy,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset15,64,0.0,0.1042826821068002,0.335072957977992,True
+No hierarchy,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset14,64,-0.07273929674533079,0.25100171948443223,0.6989049991838829,True
+No hierarchy,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset16,64,,0.0008108856657976255,0.019801076304014655,False
+No hierarchy,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset8,64,,0.0018193271455772847,0.015472427687917446,False
+No hierarchy,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset17,27,1.0,0.005816495383965876,0.01911339508365906,True
+No hierarchy,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset18,64,,8.154445563340033e-06,0.00206125882399286,False
+No hierarchy,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset2,12,,0.7976046388790531,2.637572029168722,False
+No hierarchy,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset4,12,,0.06395576637971374,0.2495296512127604,False
+No hierarchy,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset6,64,,0.04006312519376848,0.15451311687768682,False
+Raw TabM,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset11,64,,0.4371664173484377,1.2665816366224418,False
+Raw TabM,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset12,64,,0.1603303753612401,0.4766734421934189,False
+Raw TabM,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset15,64,0.0,0.10584936285344737,0.3113905571863548,True
+Raw TabM,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset14,64,0.5091750772173156,0.22614450389819907,0.7127509279336047,True
+Raw TabM,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset16,64,,0.01263713461855038,0.07339784129381774,False
+Raw TabM,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset8,64,,0.023246424944385124,0.07412925370204591,False
+Raw TabM,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset17,27,1.0,0.001838767466084658,0.009773317032440379,True
+Raw TabM,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset18,64,,1.5084137918520595e-05,0.002650204807436979,False
+Raw TabM,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset2,12,,0.6936116091256149,2.1843017540279717,False
+Raw TabM,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset4,12,,0.020848786506220723,0.11795325155859576,False
+Raw TabM,Current nested-threshold,Development OOF,3,imi_vmx30ui::dataset6,64,,0.08756388807890444,0.26809987341143643,False
+HBAF,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset15,64,0.0,0.12409935169060714,0.41475459250027213,True
+HBAF,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset18,64,,0.0006172438333444778,0.02499891248379043,False
+HBAF,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset8,64,,0.030545994603702317,0.12403424009679825,False
+HBAF,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset11,64,,0.2661228118877395,0.7158175167636811,False
+HBAF,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset14,64,0.0,0.2176880672288468,0.8379851395856077,True
+HBAF,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset6,64,,0.0005888005156646439,0.018854602110307955,False
+HBAF,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset12,64,,3.709223704979393e-05,0.005863123623506821,False
+HBAF,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset16,64,,2.726041610144816e-05,0.005108069704761665,False
+HBAF,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset17,27,0.0,0.0010294752016888782,0.012232905177445652,True
+HBAF,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset2,12,,0.6441610309743316,1.802704772215767,False
+HBAF,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset4,12,,0.03285643771519595,0.19411774014405422,False
+TabM calibrated,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset15,64,0.0,0.1389027735464085,0.6481881227665096,True
+TabM calibrated,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset18,64,,2.5279060914023557e-09,8.854408236005166e-06,False
+TabM calibrated,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset8,64,,0.10526435457779396,0.3388653544417429,False
+TabM calibrated,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset11,64,,0.06459349097376935,0.2786001599614275,False
+TabM calibrated,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset14,64,0.0,0.21666236338467246,1.0510463232602962,True
+TabM calibrated,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset6,64,,0.0015608683359038709,0.022972022889791763,False
+TabM calibrated,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset12,64,,2.830983377832689e-10,1.1054865079941844e-05,False
+TabM calibrated,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset16,64,,1.1684991484593053e-10,5.8048358651395375e-06,False
+TabM calibrated,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset17,27,1.0,4.1164971973248395e-11,2.1832143833462373e-06,True
+TabM calibrated,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset2,12,,0.7589666464384689,3.46192019239072,False
+TabM calibrated,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset4,12,,0.008572333693055658,0.04167504689959436,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset15,64,0.29277002188455997,0.12967281468606084,0.4295099540978419,True
+GaussianNB calibrated,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset18,64,,0.0024678962736623886,0.050638402297106686,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset8,64,,0.001918476110572596,0.04463963567073681,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset11,64,,0.37329949672877855,1.0451518968109816,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset14,64,0.0,0.19931069202498813,0.6034486488153314,True
+GaussianNB calibrated,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset6,64,,0.0003439423405183503,0.014870603116865676,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset12,64,,4.813831737004026e-05,0.006729048976016159,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset16,64,,3.6510477512768694e-05,0.005942789342645619,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset17,27,0.0,0.0011489865563705614,0.013453083508316914,True
+GaussianNB calibrated,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset2,12,,0.7955212734747774,2.353617997223085,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset4,12,,0.15467559907158798,0.5287958250432386,False
+Global learned fusion,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset15,64,0.0,0.12710574855227358,0.4222631358110376,True
+Global learned fusion,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset18,64,,0.002032576692937528,0.045844974015487254,False
+Global learned fusion,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset8,64,,0.003739673806854869,0.05653732328640236,False
+Global learned fusion,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset11,64,,0.16171213721044805,0.4873260296994294,False
+Global learned fusion,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset14,64,0.0,0.2047821246683194,0.6501692701801516,True
+Global learned fusion,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset6,64,,0.0007551558884624606,0.019239629851244187,False
+Global learned fusion,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset12,64,,8.71199032615714e-06,0.0028571757228630463,False
+Global learned fusion,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset16,64,,6.599852411959939e-06,0.0025217891799324565,False
+Global learned fusion,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset17,27,0.0,0.00020718856144520437,0.005546347253666388,True
+Global learned fusion,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset2,12,,0.7622721983029318,2.329466748836898,False
+Global learned fusion,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset4,12,,0.04584388409608109,0.1795145144286042,False
+Equal fusion,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset15,64,0.0,0.12409935169060715,0.4147545925002722,True
+Equal fusion,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset18,64,,0.000617243833344478,0.024998912483790433,False
+Equal fusion,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset8,64,,0.030545994603702307,0.12403424009679823,False
+Equal fusion,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset11,64,,0.1800052849674017,0.5248726554922433,False
+Equal fusion,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset14,64,0.0,0.2036564222650032,0.6389367798084113,True
+Equal fusion,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset6,64,,0.000676624183600868,0.018743416780079014,False
+Equal fusion,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset12,64,,1.2071388481103999e-05,0.00336400443160842,False
+Equal fusion,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset16,64,,9.147613908803647e-06,0.0029697138283050414,False
+Equal fusion,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset17,27,0.0,0.00028735519863162627,0.006555970644170606,True
+Equal fusion,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset2,12,,0.7647460733485779,2.289729529165371,False
+Equal fusion,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset4,12,,0.056292429121090955,0.20902539700151226,False
+MAP gate,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset15,64,0.0,0.12409935169060715,0.4147545925002722,True
+MAP gate,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset18,64,,0.0006172438333444779,0.024998912483790433,False
+MAP gate,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset8,64,,0.030545994603702307,0.12403424009679823,False
+MAP gate,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset11,64,,0.36008811725729173,1.008621796642194,False
+MAP gate,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset14,64,0.0,0.22048628019920163,1.059305778923666,True
+MAP gate,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset6,64,,0.0005827285798117225,0.018655141425187784,False
+MAP gate,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset12,64,,4.7929987391657174e-05,0.006710985568610322,False
+MAP gate,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset16,64,,3.620766989981986e-05,0.005913172346489107,False
+MAP gate,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset17,27,0.0,0.0011487736982474968,0.013433354359994844,True
+MAP gate,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset2,12,,0.6330916043069362,1.7619497378363835,False
+MAP gate,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset4,12,,0.033398766519927604,0.19693214159242586,False
+No hierarchy,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset15,64,0.0,0.12919656272404628,0.4282182074829108,True
+No hierarchy,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset18,64,,0.002368403110500852,0.04957311218120376,False
+No hierarchy,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset8,64,,0.0025336433032397045,0.05037857136464037,False
+No hierarchy,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset11,64,,0.2661228118877395,0.7158175167636811,False
+No hierarchy,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset14,64,0.0,0.2176880672288468,0.8379851395856077,True
+No hierarchy,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset6,64,,0.0005888005156646439,0.018854602110307955,False
+No hierarchy,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset12,64,,3.709223704979393e-05,0.005863123623506821,False
+No hierarchy,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset16,64,,2.726041610144816e-05,0.005108069704761665,False
+No hierarchy,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset17,27,0.0,0.0010294752016888782,0.012232905177445652,True
+No hierarchy,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset2,12,,0.6441610309743316,1.802704772215767,False
+No hierarchy,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset4,12,,0.03285643771519595,0.19411774014405422,False
+Raw TabM,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset15,64,0.0,0.1389760159886383,0.5457767135140935,True
+Raw TabM,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset18,64,,3.0145012319099353e-06,0.0006180098855686311,False
+Raw TabM,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset8,64,,0.15130354637383886,0.4460874806039176,False
+Raw TabM,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset11,64,,0.22305666103682256,0.638790159483531,False
+Raw TabM,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset14,64,0.0,0.2068101234990632,0.7254977676677801,True
+Raw TabM,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset6,64,,0.03090775172336455,0.18177670948249292,False
+Raw TabM,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset12,64,,0.0001462961491337826,0.011022469712695281,False
+Raw TabM,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset16,64,,7.842259283032545e-05,0.007345878162711012,False
+Raw TabM,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset17,27,1.0,4.347538760487979e-06,0.0010160476584631958,True
+Raw TabM,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset2,12,,0.5020350967621107,1.3639620461515205,False
+Raw TabM,Current nested-threshold,Development OOF,4,imi_vmx30ui::dataset4,12,,0.013797050619674067,0.08891729966851808,False
+HBAF,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset15,64,0.4012033633232859,0.20077594834623425,0.5906406720493764,True
+HBAF,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset6,64,,0.0010210903929558548,0.026215558114693158,False
+HBAF,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset8,64,,0.0034245133514972242,0.04226296838766995,False
+HBAF,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset11,64,,0.22602691714815024,0.6593392828317645,False
+HBAF,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset12,64,,0.0010674899254414934,0.01910829703677168,False
+HBAF,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset14,64,0.0,0.13226308074269175,0.3907315131193216,True
+HBAF,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset16,64,,0.0004441364913427119,0.02076945481756849,False
+HBAF,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset17,27,0.0,0.0014104479115305418,0.025147950688545608,True
+HBAF,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset18,64,,0.0003790292855439605,0.01926075228124262,False
+HBAF,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset2,12,,0.691827433174887,1.8379322963375542,False
+HBAF,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset4,12,,0.05072711317286613,0.20648779808683823,False
+TabM calibrated,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset15,64,0.0,0.15158037656054751,0.43095005074613724,True
+TabM calibrated,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset6,64,,0.002011015372049132,0.01238425210403489,False
+TabM calibrated,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset8,64,,0.02375472117664941,0.08973587988783033,False
+TabM calibrated,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset11,64,,0.12332726384653787,0.3633472747068127,False
+TabM calibrated,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset12,64,,9.181326156097998e-05,0.003726538400226587,False
+TabM calibrated,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset14,64,0.60279628678631,0.26024244562531995,1.1717911917474444,True
+TabM calibrated,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset16,64,,8.905164366535139e-05,0.006866739794426448,False
+TabM calibrated,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset17,27,0.0,4.2311135787799e-06,0.0010111346654577162,True
+TabM calibrated,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset18,64,,2.787291482331514e-05,0.0028554713504611996,False
+TabM calibrated,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset2,12,,0.7066323705072546,2.8717275763857937,False
+TabM calibrated,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset4,12,,0.0029593008509485237,0.03263654363900029,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset15,64,0.0,0.3012853345780674,0.7967533254337587,True
+GaussianNB calibrated,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset6,64,,0.005238890980433513,0.07474017218348453,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset8,64,,0.003917602526049988,0.06462559555126361,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset11,64,,0.45826588297060017,1.3741691786483707,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset12,64,,0.0038999438687865066,0.03591774755632805,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset14,64,0.0,0.2145725871055793,0.6819219918995209,True
+GaussianNB calibrated,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset16,64,,0.0010488347861774437,0.03256752744523073,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset17,27,0.0,0.008315119986734452,0.05532982057763607,True
+GaussianNB calibrated,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset18,64,,0.0011083605912310334,0.033539445684937184,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset2,12,,0.6348414275741221,1.6523122968458848,False
+GaussianNB calibrated,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset4,12,,0.18893228196226944,0.5550822032179549,False
+Global learned fusion,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset15,64,0.0,0.19239272291189613,0.5721235800436959,True
+Global learned fusion,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset6,64,,0.0022121015697936634,0.04284781514733014,False
+Global learned fusion,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset8,64,,0.008521654415231004,0.06331575651847617,False
+Global learned fusion,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset11,64,,0.21116066591493776,0.6248249355873662,False
+Global learned fusion,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset12,64,,0.0009000926245834783,0.01764274176020145,False
+Global learned fusion,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset14,64,0.0,0.13525581253986763,0.39557525459813103,True
+Global learned fusion,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset16,64,,0.000770784785073778,0.027790877451368476,False
+Global learned fusion,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset17,27,0.0,0.005586467836117402,0.04424759937739773,True
+Global learned fusion,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset18,64,,0.0007704322971111938,0.027827306716499915,False
+Global learned fusion,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset2,12,,0.6359879230953988,1.6187181908247528,False
+Global learned fusion,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset4,12,,0.13171908682081318,0.40364745635682936,False
+Equal fusion,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset15,64,0.4012033633232859,0.1920651388978343,0.5713605947156144,True
+Equal fusion,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset6,64,,0.0022050253895059516,0.042711558947341896,False
+Equal fusion,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset8,64,,0.008564874518940677,0.06333414493098039,False
+Equal fusion,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset11,64,,0.2260269171481502,0.6593392828317645,False
+Equal fusion,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset12,64,,0.0010674899254414928,0.019108297036771672,False
+Equal fusion,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset14,64,0.0,0.13226308074269175,0.3907315131193216,True
+Equal fusion,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset16,64,,0.0003995343055827992,0.019629126867559236,False
+Equal fusion,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset17,27,0.0,0.0021578115756625063,0.02654141118679089,True
+Equal fusion,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset18,64,,0.0003358887004472728,0.018077013377422513,False
+Equal fusion,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset2,12,,0.6506585044319151,1.6967203125610595,False
+Equal fusion,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset4,12,,0.05755945474097879,0.22684603281547652,False
+MAP gate,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset15,64,0.3114510614341045,0.224734642517398,0.6417855151504047,True
+MAP gate,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset6,64,,0.00023710220488898322,0.009069006858746105,False
+MAP gate,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset8,64,,0.0013143682234464606,0.023756634077297306,False
+MAP gate,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset11,64,,0.22602691714815018,0.6593392828317645,False
+MAP gate,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset12,64,,0.001067489925441493,0.019108297036771672,False
+MAP gate,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset14,64,0.0,0.13226308074269175,0.3907315131193215,True
+MAP gate,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset16,64,,0.0007055711415526442,0.026516842002485073,False
+MAP gate,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset17,27,1.0,0.0006162285325301769,0.024929552331135724,True
+MAP gate,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset18,64,,0.0006478012538409729,0.025461788426094818,False
+MAP gate,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset2,12,,0.8327104501665823,2.677215077181998,False
+MAP gate,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset4,12,,0.044701530098855725,0.15658360884632935,False
+No hierarchy,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset15,64,0.10815746314817509,0.2352568714370772,0.6638678682954031,True
+No hierarchy,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset6,64,,0.0002499542490484875,0.008321527275469406,False
+No hierarchy,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset8,64,,0.0013555933603579696,0.023533160633682104,False
+No hierarchy,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset11,64,,0.45425573611056763,1.3565891304276207,False
+No hierarchy,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset12,64,,0.0030425788010714485,0.01563969825552242,False
+No hierarchy,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset14,64,0.0,0.2116399708311426,0.6558542881938725,True
+No hierarchy,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset16,64,,0.0010443527306802656,0.03249622556540005,False
+No hierarchy,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset17,27,0.0,0.008180365026937074,0.05497199704803449,True
+No hierarchy,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset18,64,,0.0011027112448297747,0.03345182855368217,False
+No hierarchy,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset2,12,,0.6348510401727343,1.650286374066277,False
+No hierarchy,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset4,12,,0.18310903737042672,0.5380426801616778,False
+Raw TabM,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset15,64,0.262830948856102,0.1238086823787285,0.39906103187687847,True
+Raw TabM,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset6,64,,0.01383672175068031,0.05363783599516196,False
+Raw TabM,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset8,64,,0.07552757807649454,0.29071098705078563,False
+Raw TabM,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset11,64,,0.41488965852037296,1.1829000115227772,False
+Raw TabM,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset12,64,,0.043730500599073234,0.185201923502157,False
+Raw TabM,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset14,64,0.5731902027660701,0.13030902390421306,0.373960783181968,True
+Raw TabM,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset16,64,,0.005953720260388233,0.06945222117944837,False
+Raw TabM,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset17,27,1.0,0.000861689342069494,0.021931117707528373,True
+Raw TabM,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset18,64,,0.0025401177474284795,0.04049956560471489,False
+Raw TabM,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset2,12,,0.5671707201436617,1.6057191110723543,False
+Raw TabM,Current nested-threshold,Development OOF,5,imi_vmx30ui::dataset4,12,,0.016992624289073593,0.11398085412570873,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset15,64,0.0,0.5390491929368558,1.370558859226777,True
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset16,64,,0.04227850221219298,0.23019003010984823,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset6,64,,0.04227850221219298,0.23019003010984823,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset14,64,0.0,0.4660692353613567,1.1909440872552526,True
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset18,64,,0.04937435754348639,0.25129024758651536,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset8,64,,0.04937435754348639,0.25129024758651536,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset11,64,,0.07049052909183029,0.3085659989520512,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset12,64,,0.07049052909183029,0.3085659989520512,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset17,27,0.0,0.08786086052915275,0.3462538678299604,True
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset2,12,,0.5394894778995365,1.3261384586555987,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset4,12,,0.5394894778995365,1.3261384586555987,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset11,64,,0.04227850221219298,0.23019003010984823,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset15,64,0.0,0.5390491929368558,1.370558859226777,True
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset16,64,,0.04227850221219298,0.23019003010984823,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset14,64,0.0,0.4660692353613568,1.1909440872552528,True
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset18,64,,0.04937435754348635,0.2512902475865153,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset6,64,,0.04937435754348635,0.2512902475865153,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset12,64,,0.07049052909183025,0.3085659989520511,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset17,27,0.0,0.0878608605291527,0.3462538678299603,True
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset2,12,,0.5394894778995365,1.3261384586555989,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset4,12,,0.5394894778995365,1.3261384586555989,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset8,64,,0.07049052909183025,0.3085659989520511,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset11,64,,0.04227850221219302,0.2301900301098483,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset12,64,,0.04227850221219302,0.2301900301098483,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset15,64,0.0,0.5390491929368556,1.3705588592267768,True
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset14,64,0.0,0.4660692353613568,1.1909440872552528,True
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset16,64,,0.04937435754348635,0.2512902475865153,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset8,64,,0.04937435754348635,0.2512902475865153,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset17,27,0.0,0.0878608605291528,0.34625386782996054,True
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset18,64,,0.07049052909183039,0.30856599895205145,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset2,12,,0.5394894778995363,1.3261384586555975,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset4,12,,0.5394894778995363,1.3261384586555975,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset6,64,,0.07049052909183039,0.30856599895205145,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset15,64,0.0,0.5390491929368556,1.3705588592267768,True
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset18,64,,0.04227850221219302,0.2301900301098483,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset8,64,,0.04227850221219302,0.2301900301098483,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset11,64,,0.04937435754348639,0.25129024758651536,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset14,64,0.0,0.4660692353613567,1.1909440872552526,True
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset6,64,,0.04937435754348639,0.25129024758651536,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset12,64,,0.0704905290918303,0.3085659989520513,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset16,64,,0.0704905290918303,0.3085659989520513,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset17,27,0.0,0.08786086052915276,0.3462538678299604,True
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset2,12,,0.5394894778995364,1.3261384586555984,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset4,12,,0.5394894778995364,1.3261384586555984,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset15,64,0.0,0.5390491929368558,1.370558859226777,True
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset6,64,,0.04227850221219298,0.23019003010984823,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset8,64,,0.04227850221219298,0.23019003010984823,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset11,64,,0.04937435754348635,0.2512902475865153,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset12,64,,0.04937435754348635,0.2512902475865153,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset14,64,0.0,0.4660692353613568,1.1909440872552528,True
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset16,64,,0.07049052909183025,0.3085659989520511,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset17,27,0.0,0.0878608605291527,0.3462538678299603,True
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset18,64,,0.07049052909183025,0.3085659989520511,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset2,12,,0.5394894778995365,1.3261384586555989,False
+Dummy — Empirical Prior,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset4,12,,0.5394894778995365,1.3261384586555989,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset15,64,0.0,0.09918318506757483,0.3210271499375789,True
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset16,64,,0.0006204266556894831,0.019606127541542,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset6,64,,0.005845352904905483,0.042731460229401295,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset14,64,0.4931969619160718,0.4289371609075666,1.5392399460206616,True
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset18,64,,2.3196557116204304e-06,0.0009280049004918052,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset8,64,,0.04019445666960189,0.14568714438458208,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset11,64,,0.18579363491452194,0.5479035187600898,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset12,64,,1.39647520338771e-06,0.0009899537908087275,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset17,27,1.0,2.1645570320787252e-07,0.0003620022634475632,True
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset2,12,,0.02722310993116848,0.1561279376131601,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset4,12,,0.0009332179916397201,0.014681216766847983,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset11,64,,0.2366812586014169,0.6685347316392294,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset15,64,0.4245023243039763,0.17432964250820163,0.509340687078477,True
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset16,64,,7.206900816746661e-05,0.007163679842357113,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset14,64,0.2182178902359924,0.42479901797370423,1.2868624340928136,True
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset18,64,,8.877772118174427e-05,0.009074111307519034,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset6,64,,0.0002958722738261886,0.012507539539232568,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset12,64,,4.707799350467007e-08,0.00019894596136335157,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset17,27,1.0,2.863700453109509e-07,0.0002404402636490064,True
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset2,12,,0.5600781029971541,1.512389311812371,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset4,12,,0.0018961993343173213,0.020211325582559555,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset8,64,,0.015651313288185097,0.06502393529466918,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset11,64,,0.26565855430937224,0.7324990036966699,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset12,64,,0.00047486442625238866,0.019035175689858255,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset15,64,0.6459751934999393,0.31341652056508246,0.8696281273384213,True
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset14,64,0.4775669329409193,0.5036793654844631,1.8327684727530242,True
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset16,64,,0.0005706502926241639,0.021594201246968064,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset8,64,,0.006558562800983547,0.04857545119879207,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset17,27,1.0,4.5055071972919935e-05,0.0038284813412706987,True
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset18,64,,3.5570528819686523e-06,0.0015798934762793402,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset2,12,,0.40797542001252074,1.1271194373653155,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset4,12,,0.011235287862870943,0.08061910475820915,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset6,64,,0.05689032747749677,0.21990586676884236,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset15,64,0.1700375951120617,0.12371270606508716,0.35990858230284606,True
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset18,64,,1.5490750778695744e-09,9.026408091041562e-06,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset8,64,,0.1057688538481273,0.32681259499443227,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset11,64,,0.025073788189603038,0.1645750471862824,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset14,64,0.5773502691896258,0.2972196164880288,0.9080356822915416,True
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset6,64,,0.0036513291261050804,0.052982832589268405,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset12,64,,0.00602555148464011,0.08069697382386339,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset16,64,,0.0053375907287179615,0.07551045284690222,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset17,27,1.0,0.00951433354588199,0.08403528199381023,True
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset2,12,,0.5156248884337885,1.2703207925362359,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset4,12,,0.19246288779066525,0.5739205310906271,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset15,64,0.4166216191864911,0.22551565528587825,0.6360969544075075,True
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset6,64,,0.001712581552642337,0.02738751316565003,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset8,64,,0.013523265161479867,0.06744972239735104,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset11,64,,0.36127791939351406,0.9759157567079999,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset12,64,,0.00020461068274407108,0.011506713667200921,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset14,64,0.5773502691896258,0.29454252403243864,1.024479444269145,True
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset16,64,,0.011289843013557704,0.1109677172210308,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset17,27,1.0,0.020452318055658242,0.12239245267948992,True
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset18,64,,0.00585081682403173,0.07848979524681383,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset2,12,,0.38623569258817675,0.9727173840783214,False
+Elastic-Net Logistic Regression,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset4,12,,0.14859932710513066,0.48218283055834,False
+Random Forest,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset15,64,0.0,0.11740311631534733,0.4004214156165385,True
+Random Forest,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset16,64,,0.0036218518786277974,0.03786339137466168,False
+Random Forest,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset6,64,,0.23648541612689675,0.6636485899623809,False
+Random Forest,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset14,64,0.3110855084191276,0.1321419878492251,0.3995542129145613,True
+Random Forest,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset18,64,,0.003199025951083347,0.03220533658814426,False
+Random Forest,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset8,64,,0.9687057159812811,4.653807167960033,False
+Random Forest,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset11,64,,0.13789647857324064,0.45766744114485947,False
+Random Forest,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset12,64,,0.04100384183868616,0.2056344145860977,False
+Random Forest,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset17,27,1.0,0.01859246731967142,0.06234610152185047,True
+Random Forest,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset2,12,,0.21289105404807931,0.6177887747428567,False
+Random Forest,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset4,12,,0.05213223732885273,0.25797502101244996,False
+Random Forest,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset11,64,,0.04134567585553455,0.22722945854235493,False
+Random Forest,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset15,64,0.0,0.5021795594403421,1.2632033579458697,True
+Random Forest,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset16,64,,0.025312190590827767,0.1721979545511695,False
+Random Forest,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset14,64,0.5255382728122436,0.26462905298665107,0.8609695022129996,True
+Random Forest,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset18,64,,0.044825015128827195,0.21772010151961357,False
+Random Forest,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset6,64,,0.4880457661222055,1.4745750755088385,False
+Random Forest,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset12,64,,0.00019689918030853915,0.008145280210946404,False
+Random Forest,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset17,27,0.0,0.03108483278434238,0.09304959592826972,True
+Random Forest,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset2,12,,0.7727877656324926,2.2148817531643394,False
+Random Forest,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset4,12,,0.04498771195481128,0.22331134359166127,False
+Random Forest,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset8,64,,0.01877300313563033,0.12032575184435498,False
+Random Forest,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset11,64,,0.04498000764689483,0.2378118377633443,False
+Random Forest,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset12,64,,0.04405092055178682,0.23540855775939812,False
+Random Forest,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset15,64,0.0,0.4910599459147345,1.2327749556467793,True
+Random Forest,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset14,64,0.6546536707079772,0.23455756974720882,0.6583594741882319,True
+Random Forest,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset16,64,,0.0029784588670492248,0.036665885222073265,False
+Random Forest,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset8,64,,0.5729646847050871,1.4892867377327954,False
+Random Forest,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset17,27,0.0,0.03640932226670293,0.17654400328855063,True
+Random Forest,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset18,64,,0.006955139020179982,0.08135208249250593,False
+Random Forest,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset2,12,,0.8975455856344698,3.168523782051169,False
+Random Forest,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset4,12,,0.3386037892380613,0.873670625140169,False
+Random Forest,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset6,64,,0.4933984804237235,2.046670968216981,False
+Random Forest,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset15,64,0.0,0.15515662801024,0.9961121862393525,True
+Random Forest,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset18,64,,2.3502450902348323e-05,0.0024932434151647984,False
+Random Forest,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset8,64,,0.9997807485158385,10.272042356278405,False
+Random Forest,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset11,64,,0.037960228689060085,0.1270939812980573,False
+Random Forest,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset14,64,0.37515428924742517,0.4766909054095285,2.5740559010706456,True
+Random Forest,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset6,64,,0.08504774177285045,0.2919992022428606,False
+Random Forest,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset12,64,,0.0004626737980595091,0.016424198584924776,False
+Random Forest,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset16,64,,0.0003034607741567985,0.010167142407431563,False
+Random Forest,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset17,27,0.0,0.03163544743070877,0.10195221491163588,True
+Random Forest,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset2,12,,0.6032473544640887,1.5543628134759029,False
+Random Forest,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset4,12,,0.046721928883216836,0.23899634324956875,False
+Random Forest,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset15,64,0.0,0.1485393027188318,0.6774691167764118,True
+Random Forest,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset6,64,,0.6973196466163296,2.67059743551604,False
+Random Forest,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset8,64,,0.9994479070950437,9.602932336361548,False
+Random Forest,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset11,64,,0.06398335670039614,0.28874051819021296,False
+Random Forest,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset12,64,,0.04911511057387602,0.2464102911480548,False
+Random Forest,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset14,64,0.6546536707079772,0.4329293933013312,1.1057573751394862,True
+Random Forest,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset16,64,,0.010749054684537962,0.10152037720402987,False
+Random Forest,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset17,27,0.0,0.03489064069617669,0.15453479065084838,True
+Random Forest,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset18,64,,0.0059564052999167266,0.0790371745050449,False
+Random Forest,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset2,12,,0.456108231084749,1.1369814349582141,False
+Random Forest,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset4,12,,0.09069429830647054,0.35682041430585126,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset15,64,0.7474093186836597,0.4437261634505523,1.1108950326050744,True
+Extra Trees,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset16,64,,0.02231053848715897,0.161434572429126,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset6,64,,0.055394824694936104,0.2662917091088029,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset14,64,0.6546536707079772,0.21769332493838803,0.6184379064703628,True
+Extra Trees,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset18,64,,0.00017415299316908862,0.01226386527977474,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset8,64,,0.7559707560443407,2.371643608677908,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset11,64,,0.14542040641589699,0.3907295373573181,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset12,64,,1.3005456207696927e-06,0.0007217782650387995,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset17,27,0.0,0.03684253029510743,0.22003942716590807,True
+Extra Trees,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset2,12,,0.49726156463790283,1.2739416773852836,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset4,12,,0.003862680865999496,0.05736642690635347,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset11,64,,0.04527690808846829,0.2386914350430534,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset15,64,0.0,0.40413456468273823,1.0171470589790852,True
+Extra Trees,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset16,64,,0.01711107593737335,0.13978448149694456,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset14,64,0.0,0.15647956220511583,0.45389051289715715,True
+Extra Trees,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset18,64,,0.0010226745061270946,0.029615012873251273,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset6,64,,0.19513750313097253,0.62607697246621,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset12,64,,6.757375969632285e-06,0.0023935150053757716,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset17,27,0.0,0.032015504469411114,0.09847337940536931,True
+Extra Trees,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset2,12,,0.9134122738367956,3.2558518352593206,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset4,12,,0.28906001142706395,0.7731811021863169,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset8,64,,0.006457234245052582,0.06543979832791584,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset11,64,,0.05496405078836003,0.2654651724118583,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset12,64,,0.05068510697206456,0.2547805171681904,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset15,64,0.0,0.425719451421866,1.0673450665531765,True
+Extra Trees,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset14,64,0.6546536707079772,0.1527153191979198,0.480518392668642,True
+Extra Trees,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset16,64,,2.58000268465058e-06,0.0009461084286004456,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset8,64,,0.6705497603685735,2.2320917115607353,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset17,27,0.0,0.03523346355044274,0.1371452917632141,True
+Extra Trees,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset18,64,,0.00020580127901698536,0.011315813592191803,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset2,12,,0.9910177817703517,5.693379298634889,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset4,12,,0.7207236771005228,1.972235321786286,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset6,64,,0.404658623715213,1.1559489246242982,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset15,64,0.0,0.1253539028643913,0.3958035457562028,True
+Extra Trees,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset18,64,,0.0005248133915903971,0.020456578708819104,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset8,64,,0.5984560205524028,1.642713130392023,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset11,64,,0.0010513100464463183,0.022974868014830112,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset14,64,0.4034732923929645,0.3515219833008776,1.023867270917453,True
+Extra Trees,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset6,64,,0.015038927292870026,0.0689531491201802,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset12,64,,1.0868710008637796e-06,0.0009206867874174291,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset16,64,,4.814411722244468e-07,0.0004275865210255135,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset17,27,0.0,0.035248270184080555,0.13773346900642394,True
+Extra Trees,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset2,12,,0.9706013173523348,4.62989950500055,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset4,12,,0.2368196086569102,0.6623493499155263,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset15,64,0.0,0.0964996073736282,0.3095443222033394,True
+Extra Trees,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset6,64,,0.15942622518307692,0.4990595173309212,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset8,64,,0.5294936355189688,1.3958000410151687,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset11,64,,0.13532070647079308,0.44016251428104036,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset12,64,,0.08513512180116786,0.33611019670199016,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset14,64,0.3333333333333333,0.29326541982372634,0.7816132572691111,True
+Extra Trees,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset16,64,,2.3720493138399468e-08,8.255400692279541e-05,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset17,27,0.0,0.031241922543039948,0.09285589097437451,True
+Extra Trees,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset18,64,,2.624306601381274e-07,0.0003313415254906311,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset2,12,,0.9799084720799455,5.386981345447709,False
+Extra Trees,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset4,12,,0.19547523222661087,0.5690719883352774,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset15,64,0.0,0.15559279166266343,1.0471653813224855,True
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset16,64,,0.0013483013473204136,0.023229498296574357,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset6,64,,0.5387910259538345,2.6603003161434,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset14,64,0.5773502691896258,0.31141894549669336,0.8568345707435878,True
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset18,64,,0.0023030779627419428,0.04537870456759222,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset8,64,,0.39615018498088395,1.0087526657591566,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset11,64,,0.3949140886191175,1.0697699937664789,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset12,64,,0.002176981307567018,0.04773034723565722,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset17,27,0.0,0.034078772889165464,0.14015825580619365,True
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset2,12,,0.06989311022284421,0.2687850842374966,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset4,12,,0.0035642076937658393,0.06052143875517476,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset11,64,,0.039664779180807276,0.22207443962081644,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset15,64,0.0,0.5407222582260283,1.375695351350731,True
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset16,64,,0.03694113771646022,0.21344149260659417,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset14,64,0.3094922302950865,0.5456545278167818,1.4642610043010778,True
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset18,64,,0.004816871646373011,0.07142750675147064,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset6,64,,0.01603384595759981,0.127802831331629,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset12,64,,0.005443086329618673,0.07663115924042094,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset17,27,0.0,0.03615085122236982,0.16482827704577965,True
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset2,12,,0.23921106425357755,0.6832300690810355,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset4,12,,0.13675146265590352,0.46105817916948105,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset8,64,,0.0898440073978316,0.3285609595850709,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset11,64,,0.037028284664466414,0.21359875544259133,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset12,64,,0.03989157817324197,0.2228005023985035,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset15,64,0.0,0.5722756310002803,1.477473112089859,True
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset14,64,0.606976978666884,0.1049969588811571,0.3269549757995896,True
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset16,64,,0.006427820473854947,0.0600848397391511,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset8,64,,0.9894570240450937,5.893023733997076,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset17,27,0.0,0.10820222233973818,0.396073981004283,True
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset18,64,,0.09467572592773996,0.3677266950351495,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset2,12,,0.6694017639129525,1.7083416138035634,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset4,12,,0.6972474161705525,1.8020871301189276,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset6,64,,0.04757387698258836,0.24314087426189046,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset15,64,0.0,0.1553623068958354,0.8959695790378515,True
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset18,64,,5.8244884862873444e-05,0.0051435089332630395,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset8,64,,0.9994681721556973,8.319970591759168,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset11,64,,0.24674730428306196,0.8209673007574942,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset14,64,0.0,0.2655131717233305,0.7179646708245138,True
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset6,64,,0.4232469242966216,1.2365287219326944,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset12,64,,0.01631735917784605,0.13660834557874718,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset16,64,,0.014533542810603031,0.12803766834637786,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset17,27,0.0,0.04132597502487633,0.195657627063515,True
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset2,12,,0.22133973415385141,0.6403759323668337,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset4,12,,0.14505596135616494,0.4792430095638183,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset15,64,-0.1384091330895666,0.16466390732320133,0.4808985362694074,True
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset6,64,,0.20865889184469283,0.650532930193916,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset8,64,,0.9233621441125685,3.610667745340604,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset11,64,,0.05583464119093269,0.26482735851825756,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset12,64,,0.023806441870149388,0.16710240294606693,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset14,64,0.7419408268023742,0.4636633641398368,1.192377978450064,True
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset16,64,,0.011326430335119219,0.11238896017243122,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset17,27,0.0,0.03890688237713483,0.18333885596448485,True
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset18,64,,0.010794508242671013,0.10967390532388506,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset2,12,,0.13554786177352887,0.4559677441415073,False
+HistGradientBoosting,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset4,12,,0.061555447297938104,0.28431719247507187,False
+XGBoost,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset15,64,0.0,0.15750427728596378,0.5007989357059022,True
+XGBoost,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset16,64,,0.014582386767502153,0.12813062261761687,False
+XGBoost,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset6,64,,0.1102170063652514,0.3751754030949197,False
+XGBoost,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset14,64,0.36115755925730764,0.3054317626150007,0.8270266344903111,True
+XGBoost,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset18,64,,0.0013161480852689495,0.03551588694917816,False
+XGBoost,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset8,64,,0.2795295967884365,0.7541492635743459,False
+XGBoost,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset11,64,,0.1548840366341493,0.47196654257584686,False
+XGBoost,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset12,64,,1.5472181241534273e-05,0.003910495090176519,False
+XGBoost,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset17,27,0.0,0.03654729273348466,0.1880620530125533,True
+XGBoost,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset2,12,,0.05983140378119761,0.2652646407667412,False
+XGBoost,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset4,12,,2.291358452319016e-05,0.0041839345073964,False
+XGBoost,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset11,64,,0.04166181674958243,0.22826594373086226,False
+XGBoost,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset15,64,0.0,0.531889370536583,1.348917422671152,True
+XGBoost,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset16,64,,0.04079787931816073,0.2256192742498468,False
+XGBoost,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset14,64,0.0,0.4726948382763939,1.2295958294337939,True
+XGBoost,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset18,64,,0.02236476686195365,0.16045370506223694,False
+XGBoost,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset6,64,,0.032303518970423925,0.19241595694142677,False
+XGBoost,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset12,64,,0.0035450422071363406,0.06138643501625772,False
+XGBoost,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset17,27,0.0,0.036171689834582396,0.1635981450705738,True
+XGBoost,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset2,12,,0.18342308847716815,0.5589047670276471,False
+XGBoost,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset4,12,,0.02687508422968397,0.17667778742198195,False
+XGBoost,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset8,64,,0.1920479753893088,0.5748297662814706,False
+XGBoost,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset11,64,,0.04332620390169038,0.23336343223371925,False
+XGBoost,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset12,64,,0.04514642690756446,0.23886255707399842,False
+XGBoost,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset15,64,0.0,0.530341682484214,1.3442252713207483,True
+XGBoost,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset14,64,0.0,0.1602763195737006,0.47635490428581195,True
+XGBoost,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset16,64,,0.002822990140544446,0.03859845585711238,False
+XGBoost,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset8,64,,0.6290337161953432,1.6355393927855033,False
+XGBoost,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset17,27,0.0,0.09395789088643057,0.36164970684451303,True
+XGBoost,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset18,64,,0.07754867856841757,0.3263891296223504,False
+XGBoost,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset2,12,,0.6042821342658248,1.502180570332419,False
+XGBoost,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset4,12,,0.6042821342658248,1.502180570332419,False
+XGBoost,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset6,64,,0.057733755305397,0.2742200710106194,False
+XGBoost,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset15,64,0.0,0.12588088559032423,0.41454158332565905,True
+XGBoost,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset18,64,,0.004577777444886355,0.06509183053367654,False
+XGBoost,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset8,64,,0.8809298736067884,2.8176090735251034,False
+XGBoost,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset11,64,,0.4299701539727766,1.1927319748534178,False
+XGBoost,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset14,64,0.0,0.19675749499428766,0.5534664462479041,True
+XGBoost,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset6,64,,0.44100437692417366,1.2059701310813753,False
+XGBoost,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset12,64,,4.689620352072913e-06,0.0021363800572704985,False
+XGBoost,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset16,64,,2.220461080101283e-06,0.0013647781960280183,False
+XGBoost,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset17,27,0.0,0.03663527641976424,0.19407245124144337,True
+XGBoost,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset2,12,,0.22837474897408908,0.6344722318208954,False
+XGBoost,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset4,12,,0.00011416197627797377,0.008392529223750332,False
+XGBoost,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset15,64,0.0,0.14517001390569131,0.5472804147278878,True
+XGBoost,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset6,64,,0.2073406248162853,0.9910827898771599,False
+XGBoost,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset8,64,,0.9833738236931977,5.242598935210893,False
+XGBoost,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset11,64,,0.15910648885667922,0.4746255399863289,False
+XGBoost,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset12,64,,0.07724326097438067,0.23210432439431708,False
+XGBoost,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset14,64,0.4034732923929645,0.38899346639594506,1.2401761555509117,True
+XGBoost,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset16,64,,0.0001738344323322288,0.013088564236480848,False
+XGBoost,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset17,27,0.0,0.03611901811536828,0.16878642104674263,True
+XGBoost,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset18,64,,0.00016346370226185325,0.012781378275029865,False
+XGBoost,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset2,12,,0.06065468586470509,0.2807497760905475,False
+XGBoost,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset4,12,,0.00038055193246382623,0.018305613223558222,False
+LightGBM,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset15,64,0.0,0.15379383341738656,0.7599359185519998,True
+LightGBM,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset16,64,,0.041016757597681516,0.2187201241951602,False
+LightGBM,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset6,64,,0.4969995033875658,1.5867519637156113,False
+LightGBM,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset14,64,0.2854496128592251,0.3098778429271416,0.8545129972382313,True
+LightGBM,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset18,64,,0.005792513655955107,0.0753190641655335,False
+LightGBM,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset8,64,,0.46613542521627166,1.1671779731873237,False
+LightGBM,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset11,64,,0.16156573565831606,0.46665956868882474,False
+LightGBM,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset12,64,,0.00011976651956351994,0.010961796491193557,False
+LightGBM,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset17,27,0.0,0.036025222445779694,0.16418345079057547,True
+LightGBM,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset2,12,,0.1927366037984165,0.591849688925548,False
+LightGBM,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset4,12,,0.0022158391885975367,0.04726367497192544,False
+LightGBM,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset11,64,,0.04611287599824815,0.24172070153028113,False
+LightGBM,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset15,64,0.0,0.5232127110629474,1.323126522243867,True
+LightGBM,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset16,64,,0.04130809620255881,0.2271983309431984,False
+LightGBM,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset14,64,0.0,0.5229801960642613,1.39936236908263,True
+LightGBM,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset18,64,,0.01091296965477831,0.1101270460881211,False
+LightGBM,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset6,64,,0.018473842431802244,0.13849114800368734,False
+LightGBM,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset12,64,,0.0004446115532269879,0.021311295071963388,False
+LightGBM,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset17,27,0.0,0.035919736440035495,0.16345364657126216,True
+LightGBM,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset2,12,,0.24643065603263326,0.6860083173207631,False
+LightGBM,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset4,12,,0.11625817245810088,0.4169809519730087,False
+LightGBM,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset8,64,,0.08033310206571205,0.2805737333974052,False
+LightGBM,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset11,64,,0.04440327619432625,0.23656924222994152,False
+LightGBM,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset12,64,,0.04775005196019019,0.2465548385393067,False
+LightGBM,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset15,64,0.0,0.5224535884756694,1.3209033659612102,True
+LightGBM,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset14,64,0.4034732923929645,0.24913352279108436,0.6782346027576647,True
+LightGBM,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset16,64,,0.005283042701301931,0.0751639393690691,False
+LightGBM,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset8,64,,0.713907242318908,1.9621656650629258,False
+LightGBM,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset17,27,0.0,0.0868960090732801,0.34377367480962423,True
+LightGBM,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset18,64,,0.0713280549999127,0.31070934563275654,False
+LightGBM,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset2,12,,0.5426104001673248,1.3341609682955824,False
+LightGBM,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset4,12,,0.5426104001673248,1.3341609682955824,False
+LightGBM,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset6,64,,0.07196318035084824,0.3123267920617794,False
+LightGBM,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset15,64,0.0,0.15511785486101481,0.8872494093347656,True
+LightGBM,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset18,64,,0.00012390771760171696,0.007957574176025092,False
+LightGBM,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset8,64,,0.9993401156848608,8.219358809366431,False
+LightGBM,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset11,64,,0.18022939985622527,0.554497581134181,False
+LightGBM,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset14,64,0.4034732923929645,0.3571788337032607,1.0737542491039735,True
+LightGBM,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset6,64,,0.3668111681944061,0.9977808645518184,False
+LightGBM,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset12,64,,0.00017396174541923134,0.013270557905302356,False
+LightGBM,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset16,64,,0.0001595114966257948,0.01270027300703095,False
+LightGBM,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset17,27,0.0,0.03621690616127355,0.17242001102869733,True
+LightGBM,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset2,12,,0.2560925595600177,0.7155204603697904,False
+LightGBM,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset4,12,,0.06663667829697938,0.2984751660056832,False
+LightGBM,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset15,64,0.0,0.09323399676661678,0.29557916865406697,True
+LightGBM,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset6,64,,0.17607728277757223,0.7148032820506924,False
+LightGBM,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset8,64,,0.9651995369927717,4.683953201891947,False
+LightGBM,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset11,64,,0.04222151797258985,0.1633676535331549,False
+LightGBM,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset12,64,,0.01565425538326424,0.09718917729681789,False
+LightGBM,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset14,64,0.0,0.5436554694581337,1.7061307876482765,True
+LightGBM,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset16,64,,7.676329987418658e-05,0.00878888719693289,False
+LightGBM,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset17,27,0.0,0.036442317993386625,0.1826514379191016,True
+LightGBM,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset18,64,,7.570273575549779e-05,0.008733357034230917,False
+LightGBM,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset2,12,,0.2089769450157318,0.6347960168096668,False
+LightGBM,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset4,12,,0.019314982383690615,0.14800597275170962,False
+CatBoost,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset15,64,0.0,0.14831827757797542,0.4757562390320019,True
+CatBoost,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset16,64,,0.005934172469482348,0.07082282428497141,False
+CatBoost,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset6,64,,0.11061750657954925,0.3741687778171853,False
+CatBoost,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset14,64,0.5968491905238343,0.18189275729226226,0.49537021037980705,True
+CatBoost,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset18,64,,9.255608989192032e-05,0.0051099790541217025,False
+CatBoost,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset8,64,,0.25412889314498033,0.8404501072629786,False
+CatBoost,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset11,64,,8.784920954807149e-05,0.00699274807705676,False
+CatBoost,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset12,64,,3.1017324400657546e-05,0.003377211930256653,False
+CatBoost,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset17,27,0.0,0.036056123507136016,0.16011678684201452,True
+CatBoost,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset2,12,,0.9160178492839042,3.3491489307956512,False
+CatBoost,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset4,12,,6.703946048265977e-05,0.007515057791490338,False
+CatBoost,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset11,64,,0.03843885815941764,0.21778560557455512,False
+CatBoost,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset15,64,0.0,0.5865501715161126,1.5269778189104244,True
+CatBoost,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset16,64,,0.04128471495348254,0.22696541356990876,False
+CatBoost,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset14,64,0.5255382728122436,0.22934157138444503,0.6496113298456412,True
+CatBoost,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset18,64,,4.068729509429856e-05,0.0015198333173895976,False
+CatBoost,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset6,64,,0.11486156929775151,0.4994600229473749,False
+CatBoost,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset12,64,,9.774537110789447e-06,0.0030071522618250854,False
+CatBoost,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset17,27,0.0,0.02238262182383684,0.05707411344223674,True
+CatBoost,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset2,12,,0.8173201083869852,2.594369692208205,False
+CatBoost,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset4,12,,0.024734262766456457,0.16591047630164815,False
+CatBoost,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset8,64,,0.01548409488410258,0.07341150455693593,False
+CatBoost,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset11,64,,0.05197153733082775,0.25855479762658107,False
+CatBoost,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset12,64,,0.058503318959385986,0.2769064630343418,False
+CatBoost,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset15,64,0.0,0.49408994250280225,1.2408312971013011,True
+CatBoost,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset14,64,0.5423261445466404,0.2621802008437647,0.8538502140086095,True
+CatBoost,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset16,64,,9.710352559065639e-13,1.1016301378302224e-06,False
+CatBoost,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset8,64,,0.7689929678009759,3.4931759233688418,False
+CatBoost,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset17,27,1.0,0.020665317842761422,0.06354456819686197,True
+CatBoost,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset18,64,,0.09073602282248819,0.3510380286776561,False
+CatBoost,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset2,12,,0.8537172497193382,2.8806665223494803,False
+CatBoost,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset4,12,,0.19896129483507755,0.59665058320011,False
+CatBoost,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset6,64,,0.47059643781973876,1.3620597235035796,False
+CatBoost,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset15,64,0.0734994547368502,0.2170469701417041,0.6257712247130041,True
+CatBoost,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset18,64,,0.013667759385365942,0.11967594840070914,False
+CatBoost,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset8,64,,0.8964974495409823,3.046406321163922,False
+CatBoost,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset11,64,,0.18384423534766903,0.5547941774060312,False
+CatBoost,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset14,64,0.4034732923929645,0.4184995913351155,2.486454279759858,True
+CatBoost,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset6,64,,0.10099094761355128,0.2986781100179597,False
+CatBoost,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset12,64,,5.952919498763566e-06,0.0023054760289088726,False
+CatBoost,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset16,64,,6.227497231429407e-05,0.004566542347294435,False
+CatBoost,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset17,27,0.0,0.03299610622035836,0.10965958688016723,True
+CatBoost,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset2,12,,0.9650894949332466,4.293733286812981,False
+CatBoost,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset4,12,,0.002327392011335312,0.04583841272241773,False
+CatBoost,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset15,64,0.34426518632954817,0.3258102560139993,0.9873374956372742,True
+CatBoost,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset6,64,,0.11875592472328285,0.4122342892050114,False
+CatBoost,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset8,64,,0.9630168702061018,4.221084803282986,False
+CatBoost,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset11,64,,0.09542201812800072,0.297849422877559,False
+CatBoost,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset12,64,,0.03841699237615983,0.1675891113889061,False
+CatBoost,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset14,64,0.1856953381770519,0.3722815743933052,1.0680801962211344,True
+CatBoost,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset16,64,,0.00020479431576529407,0.010933748493603604,False
+CatBoost,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset17,27,0.0,0.03291317951164831,0.11360165124650173,True
+CatBoost,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset18,64,,4.3192789862260696e-05,0.006345433832019799,False
+CatBoost,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset2,12,,0.9661787310532334,4.75038154314275,False
+CatBoost,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset4,12,,0.0036248670884839788,0.060954766018740114,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset15,64,0.29277002188455997,0.1282337784695326,0.42331844779180083,True
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset16,64,,0.000574044187486233,0.023944694458268963,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset6,64,,0.0008346980376413622,0.028314169655952043,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset14,64,0.0,0.25372588803817697,0.8036650039116439,True
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset18,64,,0.0005376540194974218,0.023042406663166065,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset8,64,,0.0003027431773722804,0.0175334317339981,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset11,64,,0.0035292385270849136,0.04223864357918748,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset12,64,,2.393468691629511e-05,0.004424671141619029,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset17,27,1.0,0.0013539021649924073,0.011666290828864626,True
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset2,12,,0.5806013529392592,1.5929069370950852,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset4,12,,0.14083133312717602,0.47371829845730823,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset11,64,,0.22039453276428675,0.6543803150366925,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset15,64,0.0,0.12169931751103202,0.4088206483741096,True
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset16,64,,0.0006045784651199016,0.024217831029889218,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset14,64,0.0,0.2809817088387301,0.7664531461972472,True
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset18,64,,0.003745424501905882,0.06294432325422779,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset6,64,,0.004327242370210235,0.06740015690147412,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset12,64,,0.00012165214696863613,0.010724312350669741,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset17,27,1.0,0.01077319328427839,0.038619687602615915,True
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset2,12,,0.7693789731595885,2.235905793695585,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset4,12,,0.23875023540343543,0.724523143201978,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset8,64,,6.305554642809884e-05,0.007948324886983868,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset11,64,,0.261180913773697,0.7550395396711403,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset12,64,,0.002473489138824606,0.04295547405651303,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset15,64,0.0,0.12207363441608435,0.40972863634572987,True
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset14,64,-0.14907119849998599,0.24923943266496523,0.7386124647768706,True
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset16,64,,5.602371123391261e-05,0.007354807596452583,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset8,64,,3.254470851284886e-05,0.005714005973212021,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset17,27,1.0,0.00019133874498082645,0.011433850000918188,True
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset18,64,,8.552790408920995e-05,0.009084518010365819,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset2,12,,0.6223297349317493,1.6644679149543158,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset4,12,,0.10113066654872825,0.29924308359552726,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset6,64,,8.212764847312431e-05,0.008747567535262844,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset15,64,0.0,0.12967281468606084,0.4295099540978419,True
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset18,64,,0.0024678962736623886,0.050638402297106686,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset8,64,,0.001918476110572596,0.04463963567073681,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset11,64,,0.37329949672877855,1.0451518968109816,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset14,64,0.0,0.19931069202498813,0.6034486488153314,True
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset6,64,,0.0003439423405183503,0.014870603116865676,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset12,64,,4.813831737004026e-05,0.006729048976016159,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset16,64,,3.6510477512768694e-05,0.005942789342645619,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset17,27,1.0,0.0011489865563705614,0.013453083508316914,True
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset2,12,,0.7955212734747774,2.353617997223085,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset4,12,,0.15467559907158798,0.5287958250432386,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset15,64,0.0,0.3012853345780674,0.7967533254337587,True
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset6,64,,0.005238890980433513,0.07474017218348453,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset8,64,,0.003917602526049988,0.06462559555126361,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset11,64,,0.45826588297060017,1.3741691786483707,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset12,64,,0.0038999438687865066,0.03591774755632805,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset14,64,0.0,0.2145725871055793,0.6819219918995209,True
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset16,64,,0.0010488347861774437,0.03256752744523073,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset17,27,1.0,0.008315119986734452,0.05532982057763607,True
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset18,64,,0.0011083605912310334,0.033539445684937184,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset2,12,,0.6348414275741221,1.6523122968458848,False
+Gaussian Naive Bayes,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset4,12,,0.18893228196226944,0.5550822032179549,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset15,64,0.0,0.15624218303131604,1.6556434280349617,True
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset16,64,,0.024825398299246508,0.17145375766664064,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset6,64,,0.024825398299246508,0.17145375766664064,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset14,64,0.2773500981126145,0.5856241946941516,1.9298809279086178,True
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset18,64,,0.002055766766186941,0.04640061387890037,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset8,64,,0.19112638065612295,0.5490314281644905,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset11,64,,9.336759382276966e-12,3.055615799125075e-06,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset12,64,,9.336759382276966e-12,3.055615799125075e-06,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset17,27,0.0,0.03703681070480855,0.47031890328012294,True
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset2,12,,0.9957755935890393,11.945615059196443,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset4,12,,0.16493472202443635,0.6393095296540922,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset11,64,,0.023324155975056774,0.16572698776476938,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset15,64,0.0,0.41749584393310063,1.047967377778577,True
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset16,64,,0.023324155975056774,0.16572698776476938,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset14,64,0.4775669329409193,0.34191233759192297,0.9215135031049542,True
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset18,64,,0.034312271050256866,0.20485643154242908,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset6,64,,0.034312271050256866,0.20485643154242908,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset12,64,,3.22793346922502e-05,0.0056976915949828195,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset17,27,0.0,0.036648465221034474,0.19698820904146516,True
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset2,12,,0.9886692982659323,5.170541662650007,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset4,12,,0.7533258899632399,3.0924802638065008,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset8,64,,3.22793346922502e-05,0.0056976915949828195,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset11,64,,0.028598385101881067,0.18525855030703375,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset12,64,,0.028598385101881067,0.18525855030703375,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset15,64,0.0,0.31425659524307065,0.8229370895140851,True
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset14,64,0.4034732923929645,0.37904434903045137,1.2532859084843588,True
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset16,64,,0.002813073250048847,0.05449674941380233,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset8,64,,0.30340399798707096,2.412371288035097,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset17,27,0.0,0.035921725328114926,0.16350189392697298,True
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset18,64,,0.00044199144473071144,0.021247735387880166,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset2,12,,0.9583948062961043,3.862110015943386,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset4,12,,0.3141683751450937,0.9292268787871385,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset6,64,,0.00044199144473071144,0.021247735387880166,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset15,64,0.0,0.15500328967768268,0.8645230987191207,True
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset18,64,,0.019264668301432933,0.14942528553405013,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset8,64,,0.16791316708770784,0.8710928465129896,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset11,64,,0.009788289056835117,0.09913563047735444,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset14,64,0.4775669329409193,0.46609349229874564,1.3556413459525696,True
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset6,64,,0.006701891361633288,0.08541092773765821,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset12,64,,6.663342399348727e-17,1.0000005000003334e-06,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset16,64,,6.663342399348727e-17,1.0000005000003334e-06,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset17,27,0.0,0.03703703643237563,0.5116865391843435,True
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset2,12,,0.9999999588009453,13.815510557964274,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset4,12,,0.2042392230246838,1.804784739876985,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset15,64,0.0,0.16400822870158765,0.5155972492141977,True
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset6,64,,0.038163962127372435,0.20443027479941117,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset8,64,,0.09399310899743475,0.3318029201213528,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset11,64,,0.0030902784911237126,0.04363623706353612,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset12,64,,0.0007609463696821132,0.027972874563779976,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset14,64,0.2335496832484569,0.45833952183138427,1.4566313680276148,True
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset16,64,,9.212208131979402e-05,0.009644382774264547,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset17,27,0.0,0.036418194313500976,0.1813685887769891,True
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset18,64,,9.212208131979402e-05,0.009644382774264547,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset2,12,,0.9808960723502119,4.646197944847828,False
+Quantile Naive Bayes,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset4,12,,0.21706102340662778,0.8592669280327119,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset15,64,0.0,0.4140887649227648,1.0400154742059828,True
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset16,64,,0.05189194242707727,0.25116782140421917,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset6,64,,0.05756374242662936,0.2705823197474334,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset14,64,0.0,0.66110453145644,2.1041480537386144,True
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset18,64,,0.014126325165206165,0.1265321935469611,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset8,64,,0.063987075253407,0.2481280619693046,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset11,64,,0.16746803384875664,0.5223888994497997,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset12,64,,0.18095780184362892,0.5540394540877507,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset17,27,-0.20351933162035313,0.0883279240438565,0.34327469799453636,True
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset2,12,,0.4663608177935749,1.1485575108085668,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset4,12,,0.4663608177935749,1.1485575108085668,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset11,64,,0.04669144787638923,0.24345069866237729,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset15,64,0.0,0.5701038694314489,1.4705005020742035,True
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset16,64,,0.03524011916922975,0.20771532260927478,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset14,64,0.0,0.7490854268474296,6.737751167997943,True
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset18,64,,1.802348064626295e-06,0.001258400477736098,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset6,64,,1.1933128576960362e-06,0.000791222382197362,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset12,64,,0.21220233075955688,0.6145562310631274,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset17,27,-0.038461538461538464,0.04862045763745469,0.23232246273910068,True
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset2,12,,0.7000811230174558,1.8143888350926527,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset4,12,,0.6944500546712732,1.7917796662078052,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset8,64,,0.06253170350936679,0.1951347933471837,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset11,64,,0.09099041827512214,0.3008515712584575,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset12,64,,0.2863111037463283,0.765891178847607,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset15,64,0.0,0.2270102394308571,0.6470933353818822,True
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset14,64,0.0,0.556875824157394,1.6057373989385768,True
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset16,64,,0.16855608106543923,0.4584492144174547,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset8,64,,0.11988377075186007,0.3969055630454116,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset17,27,-0.17541160386140583,0.08578643257157052,0.3237482646890288,True
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset18,64,,0.02171370821403762,0.15279347975081728,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset2,12,,0.36928853269720635,0.9357642799475901,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset4,12,,0.37110673724864346,0.9395217601499949,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset6,64,,0.12511790189490052,0.399321178055809,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset15,64,0.4042260417272216,0.4978898355500959,1.2515373152359688,True
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset18,64,,0.04050017223173192,0.2247029489025025,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset8,64,,0.04462172753304946,0.23642442863044613,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset11,64,,0.0237590504032796,0.1656527610173415,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset14,64,0.4931969619160718,0.5268971976210886,1.3930497132775637,True
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset6,64,,0.025518744932448656,0.1727692311082167,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset12,64,,0.09251772686933495,0.3615233222709799,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset16,64,,0.18819121988478302,0.5221107658948954,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset17,27,-0.12725695259515554,0.1744541402803007,0.5005198897967169,True
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset2,12,,0.09791991110463334,0.3736542097161413,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset4,12,,0.08387424491608908,0.3419418756099511,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset15,64,0.0,0.2935035451958552,0.783673720253294,True
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset6,64,,0.21691398873920573,0.6040371335272521,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset8,64,,0.06720559615210417,0.2762490789930033,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset11,64,,0.00010558516347262492,0.008823351454244295,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset12,64,,0.00021348184709741992,0.014713198056251951,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset14,64,0.0,0.7282227427481254,3.1705924069289435,True
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset16,64,,0.1373583484785214,0.4561725302808395,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset17,27,-0.10482848367219183,0.11216084138754022,0.387022790148195,True
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset18,64,,0.0361510094002831,0.20138724408622727,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset2,12,,0.2927496953449013,0.778954936692351,False
+Static TAN Bayesian Network,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset4,12,,0.2798514755334858,0.7529182067742018,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset15,64,0.5745543676773063,0.0932846421800489,0.3016516452950947,True
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset16,64,,0.2614629638707082,0.8141259961651158,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset6,64,,0.4543875958930328,1.5262083245766522,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset14,64,0.0,0.7150472854947909,2.813476091680742,True
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset18,64,,0.0005605290983308277,0.02396026395219694,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset8,64,,0.07291295197226198,0.20281878889789798,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset11,64,,0.0790887562574564,0.3299397052674815,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset12,64,,0.08399636144711192,0.3420640120885059,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset17,27,0.0,0.08371263924556543,0.3354968801933205,True
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset2,12,,0.5531426363722778,1.3615455383670518,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset4,12,,0.5453211704581546,1.3417905072933827,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset11,64,,0.035966842531507094,0.2102881135010518,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset15,64,0.4173650061841515,0.5387684784640461,1.3696884916330676,True
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset16,64,,0.03870495423681301,0.21899489437360176,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset14,64,0.0,0.5386092799990819,1.429292613824196,True
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset18,64,,0.024792155952782776,0.17132850319382695,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset6,64,,0.024792155952782776,0.17132850319382695,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset12,64,,0.23352870228776515,0.65944427492759,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset17,27,0.0,0.0602393002860937,0.26821792744119066,True
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset2,12,,0.6499616347055124,1.6409388031750476,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset4,12,,0.5912136828550546,1.4988428538186416,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset8,64,,0.09143663326304169,0.33770936264678014,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset11,64,,0.03995303307716671,0.22299307146754915,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset12,64,,0.03986015011109331,0.22270441548845105,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset15,64,0.0,0.5621572312516516,1.443786715970483,True
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset14,64,0.0,0.5340620360346567,1.412321624974339,True
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset16,64,,0.138993587519385,0.42853102881807154,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset8,64,,0.09775931635653126,0.34164061040234855,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset17,27,-0.17541160386140583,0.08153400842705857,0.31736481355671714,True
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset18,64,,0.02540997440231258,0.1711086901784384,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset2,12,,0.3947981520286364,0.9898063079250251,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset4,12,,0.38265576520249156,0.9640904696484859,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset6,64,,0.11367783449524033,0.3818062562518656,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset15,64,-0.4042260417272216,0.5723965146016696,1.4780668406665167,True
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset18,64,,0.04054518218971926,0.2248429228494659,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset8,64,,0.03897086238981265,0.2197467247793064,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset11,64,,0.029092829629114712,0.1870119833483068,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset14,64,0.0,0.5232435250267607,1.3732268232114675,True
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset6,64,,0.029092829629114712,0.1870119833483068,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset12,64,,0.06941992307659736,0.3057054155487755,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset16,64,,0.02786424880405714,0.18009574176731494,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset17,27,0.20351933162035313,0.0659000805205947,0.2781821962580174,True
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset2,12,,0.7823411479150802,2.158489143690379,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset4,12,,0.7796600354641386,2.145794734540612,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset15,64,0.0,0.13042697024874217,0.41478404922151574,True
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset6,64,,0.3817481864726676,1.0663026798083912,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset8,64,,0.11434870937902411,0.38456569102837046,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset11,64,,0.0011372463285933487,0.03430482231275706,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset12,64,,0.0011372463285933487,0.03430482231275706,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset14,64,0.0,0.7005526217937108,2.550755745517865,True
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset16,64,,0.24297660891254652,0.6780189031339023,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset17,27,-0.17541160386140583,0.179703736789479,0.5299388038160173,True
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset18,64,,0.04501183676517056,0.2240437728515869,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset2,12,,0.10433234294947262,0.38976481987469497,False
+Dynamic Bayesian Network,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset4,12,,0.0984027340155601,0.37638004838655986,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset15,64,0.0,0.11057619029766502,0.36411819578843213,True
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset16,64,,0.03208703528376096,0.16967818892496375,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset6,64,,0.027304095832461146,0.13350320948900496,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset14,64,0.3333333333333333,0.4140601316385776,2.549914468041639,True
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset18,64,,1.988930009813574e-12,1.3777994443474216e-06,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset8,64,,0.5618407772470956,2.8624675015704155,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset11,64,,0.4935215206272235,2.032569683468296,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset12,64,,3.0487306502293098e-05,0.005320979857419684,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset17,27,1.0,2.0679978580350676e-08,0.00011249796944219008,True
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset2,12,,2.369693859346597e-06,0.001071448107137174,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset4,12,,3.705986439569579e-07,0.0002637639034129611,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset11,64,,0.00914718666382147,0.09053485715163195,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset15,64,0.29277002188455997,0.120180236529048,0.3577558031520016,True
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset16,64,,0.00020267796708151622,0.013224706216040785,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset14,64,0.5255382728122436,0.251850880997268,0.8288675487293768,True
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset18,64,,5.829094665974367e-06,0.002072898789545174,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset6,64,,0.0015511676577583701,0.006478389217539165,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset12,64,,2.658308568958653e-07,0.0004766859852713586,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset17,27,1.0,2.676793257517143e-09,3.544425982205574e-05,True
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset2,12,,0.8729267699496438,3.8736355841873995,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset4,12,,0.005212626948498678,0.03337214099042861,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset8,64,,9.678546634805708e-05,0.002469211345756056,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset11,64,,0.2868308027899092,0.786968767600436,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset12,64,,0.005746817425956662,0.07146323728744472,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset15,64,0.762962962962963,0.17448060166466578,0.5155588817641676,True
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset14,64,0.3333333333333333,0.5199489442776096,2.2644859080731052,True
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset16,64,,1.3235042843516754e-06,0.0011271437937571814,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset8,64,,0.3151043636595167,1.2918048206137036,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset17,27,1.0,0.0008299917280597903,0.028542183885950097,True
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset18,64,,0.008402127068924417,0.09305637035727585,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset2,12,,0.7741481144164385,2.4313522973902635,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset4,12,,0.11541933253280222,0.3762426155050426,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset6,64,,0.5093440158777545,1.7997621442020098,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset15,64,0.0,0.1130921792848689,0.34146348468097654,True
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset18,64,,5.83523740952176e-06,0.002396084556515913,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset8,64,,0.6687921172296059,3.245906602384168,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset11,64,,0.3403332776406188,0.927875606736208,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset14,64,0.3472281323374084,0.47996092345044417,3.4872665498085222,True
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset6,64,,0.005139757118584289,0.0168704772210227,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset12,64,,9.972508552824723e-05,0.009748941792098616,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset16,64,,0.0003639353975667371,0.017495172772747272,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset17,27,1.0,8.190152301501892e-05,0.00822465481961412,True
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset2,12,,0.6350106886451793,1.7969032427236848,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset4,12,,0.0210709525356142,0.0986453528091359,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset15,64,0.3114510614341045,0.22094850242225755,0.629409297103176,True
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset6,64,,0.0034243456000962354,0.031081320802422343,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset8,64,,0.013197168162843952,0.044249482874796325,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset11,64,,0.35919871698940353,1.2017615157943506,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset12,64,,0.008271307650426985,0.05443491170986199,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset14,64,0.46225016352102427,0.35148133015765115,1.7483387463564748,True
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset16,64,,9.908206978871815e-05,0.00883302757805668,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset17,27,1.0,4.364960675781071e-05,0.0061455809595380734,True
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset18,64,,0.0009681311329376092,0.02848230702905956,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset2,12,,0.24496151418965384,0.7209026964630435,False
+Tabular ResNet,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset4,12,,4.978120104319661e-06,0.0011407731056311168,False
+TabM,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset15,64,0.0,0.15141311961184714,0.9851432010295563,True
+TabM,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset16,64,,0.005675167037431755,0.029994239642439264,False
+TabM,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset6,64,,0.005112243222987636,0.01651947616984944,False
+TabM,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset14,64,0.5510387687779837,0.18539253394498473,0.6388225373651296,True
+TabM,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset18,64,,1.7297317442347225e-08,2.580240632273579e-05,False
+TabM,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset8,64,,0.021600658477373354,0.07014994895534558,False
+TabM,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset11,64,,0.23452815253614523,0.7140124900241155,False
+TabM,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset12,64,,0.00017276664227837296,0.0056752095069030365,False
+TabM,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset17,27,1.0,3.1186735506609266e-08,3.9151491323463405e-05,True
+TabM,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset2,12,,0.02326219635453521,0.1148916461345339,False
+TabM,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset4,12,,2.5386020885706786e-05,0.002031726221741368,False
+TabM,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset11,64,,0.30361262488075647,0.8408651952664283,False
+TabM,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset15,64,0.0,0.1457571458540458,0.6861888479516041,True
+TabM,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset16,64,,0.00017239898838292982,0.0027323166259227713,False
+TabM,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset14,64,0.4178554470186725,0.45668584678815627,1.985180032031335,True
+TabM,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset18,64,,4.996767456748783e-06,0.00085229594825331,False
+TabM,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset6,64,,0.001747121068934652,0.0064421788612342825,False
+TabM,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset12,64,,1.0958531133728091e-08,6.594494934994928e-05,False
+TabM,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset17,27,1.0,0.001306207824183843,0.007707156541438438,True
+TabM,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset2,12,,0.6025735220804397,2.147080644098826,False
+TabM,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset4,12,,0.0020884973384201924,0.025331327845989432,False
+TabM,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset8,64,,0.00017577149836758843,0.002669388396763027,False
+TabM,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset11,64,,0.11399966624741767,0.3594841067736262,False
+TabM,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset12,64,,0.017332956790220875,0.10481141606758321,False
+TabM,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset15,64,0.0,0.1033446212176099,0.320562401505139,True
+TabM,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset14,64,0.5091750772173156,0.41874633774918674,1.3251627199388878,True
+TabM,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset16,64,,0.0011995668398711286,0.02234128075917413,False
+TabM,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset8,64,,0.004039415195218604,0.02111867508099904,False
+TabM,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset17,27,0.0,0.005869511936401618,0.019186270857539926,True
+TabM,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset18,64,,8.0492091290996e-06,0.0020319754674055696,False
+TabM,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset2,12,,0.7985139204761329,2.6561084758284776,False
+TabM,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset4,12,,0.06389950611435731,0.24957715322090568,False
+TabM,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset6,64,,0.04050642134971516,0.15554564763208312,False
+TabM,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset15,64,0.0,0.1389027735463164,0.6481881227665096,True
+TabM,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset18,64,,2.5275665311014454e-09,8.854408236005166e-06,False
+TabM,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset8,64,,0.10526435457779396,0.3388653544417429,False
+TabM,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset11,64,,0.06459349097376935,0.2786001599614275,False
+TabM,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset14,64,0.0,0.2166623633845285,1.0510463232602962,True
+TabM,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset6,64,,0.0015608683359038709,0.022972022889791763,False
+TabM,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset12,64,,2.830983377832689e-10,1.1054865079941844e-05,False
+TabM,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset16,64,,1.1655551458330292e-10,5.8048358651395375e-06,False
+TabM,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset17,27,1.0,4.025330225091202e-11,2.1832143833462373e-06,True
+TabM,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset2,12,,0.7589666464384689,3.46192019239072,False
+TabM,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset4,12,,0.008572333693055658,0.04167504689959436,False
+TabM,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset15,64,0.4166216191864911,0.15158037656054751,0.43095005074613724,True
+TabM,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset6,64,,0.002011015372049132,0.01238425210403489,False
+TabM,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset8,64,,0.02375472117664941,0.08973587988783033,False
+TabM,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset11,64,,0.12332726384653787,0.3633472747068127,False
+TabM,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset12,64,,9.181326156097998e-05,0.003726538400226587,False
+TabM,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset14,64,0.5423261445466404,0.2602424456253052,1.1717911917474444,True
+TabM,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset16,64,,8.905164366535139e-05,0.006866739794426448,False
+TabM,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset17,27,1.0,4.2311135787799e-06,0.0010111346654577162,True
+TabM,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset18,64,,2.787291482331514e-05,0.0028554713504611996,False
+TabM,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset2,12,,0.7066323705072546,2.8717275763857937,False
+TabM,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset4,12,,0.0029593008509485237,0.03263654363900029,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset15,64,0.0,0.09785714166669822,0.3237461653182717,True
+FT-Transformer,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset16,64,,0.07111273900800986,0.20781512572771704,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset6,64,,0.028110632100058312,0.11216444408250464,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset14,64,0.4697792378682584,0.15548647044972513,0.5078911185795328,True
+FT-Transformer,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset18,64,,0.0002588923094207229,0.016220538813421802,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset8,64,,0.17347840492218441,0.4867596284960125,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset11,64,,0.10643399298358784,0.38790601545865466,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset12,64,,1.2688165983429906e-05,0.002530759015638901,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset17,27,1.0,0.015323882584061189,0.039703711805960315,True
+FT-Transformer,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset2,12,,0.5806638389927672,3.557809147847611,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset4,12,,0.00011469987698452124,0.010763902615892662,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset11,64,,0.010987012363354724,0.04136368081753555,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset15,64,0.0,0.1307775609034669,0.42975038422009404,True
+FT-Transformer,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset16,64,,2.719624147148704e-07,0.0005215990318003912,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset14,64,0.363696483726654,0.29119594200572557,1.18608969854159,True
+FT-Transformer,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset18,64,,0.0001652348743607871,0.012937461191843126,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset6,64,,0.00016387786841588547,0.012881241541599808,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset12,64,,2.133681192923022e-08,0.00014607515376052302,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset17,27,0.0,0.03516794309445519,0.1359487518035025,True
+FT-Transformer,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset2,12,,0.9996031651532961,8.629288644374897,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset4,12,,0.16595673422019158,0.7618069390723745,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset8,64,,4.640591123197398e-08,0.00017662276415787037,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset11,64,,0.6685653904917752,1.7787518586807256,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset12,64,,0.2955944373296351,0.7928017845939551,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset15,64,0.0,0.13295209187083346,0.4383712775305654,True
+FT-Transformer,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset14,64,0.3094922302950865,0.18137779539150067,0.5466889361347368,True
+FT-Transformer,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset16,64,,0.003125883852433787,0.012230483966597362,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset8,64,,0.12656857101993202,0.3333465864140538,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset17,27,0.0,0.03624077010496745,0.17104407923257126,True
+FT-Transformer,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset18,64,,1.8153873029049295e-05,0.0042697883097018285,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset2,12,,0.9532547258918754,4.950412163065713,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset4,12,,0.12627928232457938,0.4009183599170269,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset6,64,,0.03160610659871696,0.10319869583916799,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset15,64,0.0,0.1401288668466214,0.49210437724629824,True
+FT-Transformer,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset18,64,,0.0001701023668426383,0.013127872347193315,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset8,64,,0.22312204787669926,0.6652339666525473,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset11,64,,0.06290530145151578,0.18567910602482973,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset14,64,0.0,0.2252688792327473,0.7654206536667557,True
+FT-Transformer,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset6,64,,0.013802464428091646,0.04392927045603048,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset12,64,,2.646299317132961e-07,0.0005145495776867027,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset16,64,,2.7082406756826855e-07,0.000520492091766496,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset17,27,1.0,0.0023657814839483753,0.011302064191420855,True
+FT-Transformer,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset2,12,,0.9502961173858567,6.616184722598303,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset4,12,,0.04909806708381472,0.20883655145931126,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset15,64,0.2277100170213244,0.11633392100255115,0.36194763278496767,True
+FT-Transformer,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset6,64,,0.0024366227845148787,0.040881374998694237,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset8,64,,0.04483935010222695,0.15953069652382496,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset11,64,,0.2420751691703579,0.7525776458183697,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset12,64,,5.801241265464807e-05,0.0018523915995889244,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset14,64,0.0,0.22551006529466577,0.7677485263438508,True
+FT-Transformer,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset16,64,,1.5193371720264382e-06,0.0012325433828201285,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset17,27,0.0,0.0365154777883871,0.18450281571847513,True
+FT-Transformer,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset18,64,,7.333045358819946e-06,0.0020459602476144813,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset2,12,,0.9812841299378271,6.187509892666342,False
+FT-Transformer,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset4,12,,0.09252860727299123,0.3447269679920299,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset15,64,0.0,0.8426525320378644,6.553094477208633,True
+Causal TCN,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset16,64,,1.956576461371734e-05,0.004199537738942806,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset6,64,,1.6289736086192183e-06,0.0010232799188569653,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset14,64,0.0,0.22441861542657016,0.7680851680527421,True
+Causal TCN,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset18,64,,0.5908930341007091,1.4706636433728595,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset8,64,,0.8757168618442389,2.85891596342492,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset11,64,,0.0021335464231107093,0.04598134036124106,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset12,64,,0.012880482917069731,0.12011580201315075,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset17,27,0.0,0.046947303802816656,0.26824256956500114,True
+Causal TCN,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset2,12,,0.9251536739987462,3.8133283668799476,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset4,12,,0.8212587854875352,2.4181459357138055,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset11,64,,0.04020885240357337,0.22379458354596593,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset15,64,0.0,0.5414425558327624,1.3779301985764945,True
+Causal TCN,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset16,64,,0.03874666265502638,0.21920323050839766,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset14,64,0.0,0.7447475517849156,4.240016595283221,True
+Causal TCN,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset18,64,,0.007632496799670086,0.07426795536717581,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset6,64,,0.0022112933409017977,0.010808943207642623,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset12,64,,0.005845515745250605,0.07910101514560045,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset17,27,0.0,0.04270834454345212,0.2673117545993665,True
+Causal TCN,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset2,12,,0.8829960577903715,4.863100493904229,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset4,12,,0.6435212920837893,1.6786113862827434,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset8,64,,0.09124613431230554,0.359636110640403,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset11,64,,0.004529669459983032,0.06944447206132269,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset12,64,,0.003858635880684548,0.06404166664586941,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset15,64,0.0,0.7708299977234356,2.655273496426581,True
+Causal TCN,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset14,64,0.2914915440650687,0.555992374827879,1.7211045855174185,True
+Causal TCN,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset16,64,,0.00011341440177480954,0.010441312521974997,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset8,64,,0.001162706844412232,0.030181108842575632,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset17,27,0.0,0.06692217962886572,0.29085304968376985,True
+Causal TCN,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset18,64,,0.05671165176668676,0.2718998585058425,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset2,12,,0.5341263249238665,1.3134664679506731,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset4,12,,0.4979925683578956,1.2232024176608827,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset6,64,,0.06792473709039357,0.3014431475881685,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset15,64,0.0,0.8279430708435274,3.9693233890442774,True
+Causal TCN,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset18,64,,0.0007996632040621213,0.02846192775859378,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset8,64,,0.00026020057396853403,0.015951435278185676,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset11,64,,0.02598529053289819,0.1757824272503015,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset14,64,0.0,0.5341859859453522,1.4127798504844031,True
+Causal TCN,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset6,64,,0.026502370953439935,0.177386952342447,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset12,64,,2.272290091842795e-06,0.0012260117393280874,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset16,64,,4.427946689156718e-06,0.0015502128217053338,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset17,27,0.0,0.03700781224235038,0.26775729692914885,True
+Causal TCN,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset2,12,,0.9829294990028418,7.5384528402650846,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset4,12,,0.955250434155745,4.129378381666303,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset15,64,0.0,0.8437378293906792,10.635997750681188,True
+Causal TCN,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset6,64,,3.043379430212154e-07,0.0001404803414939891,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset8,64,,1.9005461641856317e-08,6.745125314024817e-05,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset11,64,,0.0666288203740781,0.29857530932171805,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset12,64,,0.0666288203740781,0.29857530932171805,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset14,64,0.0,0.42944043490561434,1.0903755985893704,True
+Causal TCN,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset16,64,,1.0352703010446378e-05,0.003036182165177542,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset17,27,0.0,0.03710889818283865,0.4012784056452587,True
+Causal TCN,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset18,64,,1.4955546299953505e-05,0.0036964144489445364,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset2,12,,0.9922804451451078,5.917833883652872,False
+Causal TCN,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset4,12,,0.9974986518924046,6.748076178275525,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset15,64,0.0,0.7841119376855555,3.2436583992089263,True
+InceptionTime,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset16,64,,0.016063219834710853,0.12877214909954424,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset6,64,,0.011041676039376376,0.07522039116310915,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset14,64,0.31943828249996997,0.45668030856851094,1.1644009372406243,True
+InceptionTime,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset18,64,,0.04160058565904806,0.22810862724608755,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset8,64,,0.04477081343915877,0.23748537450982557,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset11,64,,0.06751449091175832,0.2968836100753687,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset12,64,,0.07092027608283975,0.3096667891984257,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset17,27,0.0,0.08823074937129231,0.3472013322819408,True
+InceptionTime,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset2,12,,0.6722943076452471,2.7273728345207684,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset4,12,,0.5383030548710589,1.3230994524533328,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset11,64,,0.00030089547552301736,0.015280378850551028,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset15,64,0.0,0.8346724963049073,4.672181765146493,True
+InceptionTime,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset16,64,,0.009818295978933057,0.10110608378691924,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset14,64,-0.16807316136320358,0.47272540429505183,1.2184883768282053,True
+InceptionTime,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset18,64,,0.04772257010448089,0.24521579494858753,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset6,64,,0.05280387470776818,0.26099226874487813,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset12,64,,0.10157617413863805,0.38376747252086274,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset17,27,0.0,0.11500505024002727,0.4119047194246858,True
+InceptionTime,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset2,12,,0.46415582887614787,1.143473138924087,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset4,12,,0.46415582887614787,1.143473138924087,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset8,64,,0.10157617413863805,0.38376747252086274,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset11,64,,2.2750315492272437e-08,0.00010926159200020835,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset12,64,,5.5780161966461314e-09,6.823452340565798e-05,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset15,64,0.0,0.843706620232092,9.254466662923683,True
+InceptionTime,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset14,64,0.6245106046150483,0.16330720328880613,0.5067345101887829,True
+InceptionTime,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset16,64,,0.005792709031067811,0.07905707471836185,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset8,64,,0.1192462819384629,0.370286368292378,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset17,27,-0.16261090889699772,0.09687052724268416,0.7622541987229249,True
+InceptionTime,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset18,64,,0.07286080399840296,0.2893189895359229,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset2,12,,0.9997035661160307,11.43252809641197,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset4,12,,0.9999999928883971,13.815510557964274,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset6,64,,0.04449091690044307,0.17419858303801838,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset15,64,0.0,0.8271384055797534,4.1643505212871075,True
+InceptionTime,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset18,64,,0.011530494854574951,0.1093078806731304,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset8,64,,0.006821706617997097,0.07535849390583553,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset11,64,,0.01975580781701515,0.15063499101082223,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset14,64,0.0,0.562262298698279,1.5249719851322965,True
+InceptionTime,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset6,64,,0.025024463779054325,0.16934763780152473,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset12,64,,0.10221669635390908,0.3852411868679194,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset16,64,,0.10221669635390908,0.3852411868679194,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset17,27,0.0,0.11557125488995054,0.4132074437458452,True
+InceptionTime,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset2,12,,0.4627897768270281,1.1403301225719178,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset4,12,,0.4627897768270281,1.1403301225719178,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset15,64,0.24845199749997662,0.6868867216599965,2.4994604732279218,True
+InceptionTime,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset6,64,,0.0004563196482234386,0.011596747922871069,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset8,64,,0.0010169943950646449,0.016409036587961695,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset11,64,,0.0016573445663752148,0.018996463928953752,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset12,64,,5.915625438682349e-05,0.00762062299461418,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset14,64,0.12803687993289598,0.7060640756766455,3.3957150171109207,True
+InceptionTime,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset16,64,,0.070429077269162,0.30840834038265574,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset17,27,1.0,0.08762920638758744,0.345660226849526,True
+InceptionTime,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset18,64,,0.07036045599222761,0.30823236293669354,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset2,12,,0.5383829402340946,1.3233043714132637,False
+InceptionTime,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset4,12,,0.5376684703465325,1.321476701386069,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset15,64,0.0,0.8429606919262168,7.004775313961629,True
+PatchTST-style,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset16,64,,0.05617508276111872,0.23570038167102486,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset6,64,,0.0025376137473469866,0.022440938962413715,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset14,64,0.42602610286433124,0.41760953197135764,1.0600386553505525,True
+PatchTST-style,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset18,64,,0.035463220916899234,0.2086449320774433,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset8,64,,0.04909022381272193,0.2484968525896821,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset11,64,,0.06590072088369275,0.295778021796681,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset12,64,,0.05605930377006689,0.27015371682874023,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset17,27,1.0,0.055425755900734626,0.2591891866674561,True
+PatchTST-style,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset2,12,,0.4594037990888955,1.1429014087508587,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,1,imi_vmx30ui::dataset4,12,,0.5323366244550513,1.3089299390913496,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset11,64,,0.05873852830180075,0.265237960640367,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset15,64,0.0,0.8244154523601123,3.996611271226761,True
+PatchTST-style,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset16,64,,0.11399068359587833,0.40993154286498973,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset14,64,0.0,0.7100976623624964,2.7136486320211146,True
+PatchTST-style,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset18,64,,0.0306303356533196,0.1476743075433513,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset6,64,,0.006772248624739968,0.04192355324479994,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset12,64,,0.1704540941228355,0.5322147795221588,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset17,27,-1.0,0.22480531528002382,0.6506513735367823,True
+PatchTST-style,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset2,12,,0.45546034552956133,1.1273193137002537,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset4,12,,0.6678158350306967,1.7033399693243896,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,2,imi_vmx30ui::dataset8,64,,0.16077718437964245,0.5118650335548531,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset11,64,,0.08903284441040582,0.3503047359883425,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset12,64,,0.07116298486602832,0.3077688926174286,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset15,64,-0.15752588568030937,0.6186383547414456,1.669172414690601,True
+PatchTST-style,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset14,64,0.545544725589981,0.2622032968126167,0.7135524797130202,True
+PatchTST-style,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset16,64,,0.008175311734437538,0.09458864354073436,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset8,64,,0.06433091819468194,0.2638404691639663,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset17,27,-1.0,0.7595470583583355,2.05596480901446,True
+PatchTST-style,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset18,64,,0.7573587868923475,2.0423691866309768,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset2,12,,0.030436195606779484,0.1885277473628354,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset4,12,,0.7847860852225482,2.289122253550919,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,3,imi_vmx30ui::dataset6,64,,0.5784722553950794,1.4684364160295285,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset15,64,0.0,0.627168770480647,1.682968546356548,True
+PatchTST-style,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset18,64,,0.04533023210387583,0.23939473368817288,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset8,64,,0.03435196264796207,0.2031400267436012,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset11,64,,0.025923015931100354,0.17553479278197204,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset14,64,0.0,0.5338326365145275,1.4115032680784196,True
+PatchTST-style,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset6,64,,0.028899088642207846,0.1844396480516055,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset12,64,,0.12744720315626856,0.4416061025617374,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset16,64,,0.12908528426736243,0.44516929827375185,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset17,27,-1.0,0.14421746077740533,0.47758321143677657,True
+PatchTST-style,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset2,12,,0.44828642366554744,1.1092468535849536,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,4,imi_vmx30ui::dataset4,12,,0.4988907524478889,1.2275374991033359,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset15,64,-0.1455213750217998,0.7276777900501117,2.2886070108420844,True
+PatchTST-style,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset6,64,,0.01386223033729156,0.10304378918542334,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset8,64,,0.015612536442329478,0.10871208182559688,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset11,64,,0.06555278293965752,0.29557202800135407,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset12,64,,0.06628664631462078,0.29749180597215397,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset14,64,0.0,0.43400788989434724,1.1024836255011405,True
+PatchTST-style,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset16,64,,0.005970595211643265,0.017202654149717275,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset17,27,1.0,0.0017201989489917255,0.010731875700528694,True
+PatchTST-style,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset18,64,,8.02657749775316e-05,0.003195726478108846,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset2,12,,0.4415459139350008,2.038626844185934,False
+PatchTST-style,Notebook03 nested-threshold,Development OOF,5,imi_vmx30ui::dataset4,12,,0.03717020822198055,0.21026791705561795,False

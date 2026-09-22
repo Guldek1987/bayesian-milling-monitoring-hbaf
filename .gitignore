@@ -1,0 +1,12 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+*.pyc
+dataset/processed/
+dataset/unified/
+dataset/models/
+figures/generated/
+dataset/predictions/model03_oof_predictions.parquet
+dataset/predictions/model03_validation_predictions.parquet
+dataset/predictions/model03_locked_predictions.parquet

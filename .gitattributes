@@ -1,0 +1,6 @@
+# Preserve the exact public source-data bytes, including original line endings.
+dataset/raw/** -text
+*.ipynb text eol=lf
+README.md text eol=lf
+requirements.txt text eol=lf
+artifacts/*.csv text eol=lf
